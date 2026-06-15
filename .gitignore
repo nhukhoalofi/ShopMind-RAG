@@ -1,3 +1,6 @@
 .env
 qdrant_storage/
 qdrant_local/
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
