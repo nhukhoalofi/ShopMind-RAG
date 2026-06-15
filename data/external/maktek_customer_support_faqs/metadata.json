@@ -1,0 +1,7 @@
+{
+  "dataset_name": "maktek_customer_support_faqs",
+  "hf_id": "MakTek/Customer_support_faqs_dataset",
+  "config_name": null,
+  "source": "huggingface",
+  "output_dir": "C:\\DUT\\AI\\ShopMind RAG\\data\\external\\maktek_customer_support_faqs"
+}

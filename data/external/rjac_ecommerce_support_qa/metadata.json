@@ -1,0 +1,7 @@
+{
+  "dataset_name": "rjac_ecommerce_support_qa",
+  "hf_id": "rjac/e-commerce-customer-support-qa",
+  "config_name": null,
+  "source": "huggingface",
+  "output_dir": "C:\\DUT\\AI\\ShopMind RAG\\data\\external\\rjac_ecommerce_support_qa"
+}

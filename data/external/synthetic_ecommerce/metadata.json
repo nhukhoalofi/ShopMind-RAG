@@ -1,0 +1,6 @@
+{
+  "dataset_name": "synthetic_ecommerce",
+  "kaggle_slug": "imranalishahh/comprehensive-synthetic-e-commerce-dataset",
+  "source": "kaggle",
+  "output_dir": "C:\\DUT\\AI\\ShopMind RAG\\data\\external\\synthetic_ecommerce"
+}

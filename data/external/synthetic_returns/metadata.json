@@ -1,0 +1,6 @@
+{
+  "dataset_name": "synthetic_returns",
+  "kaggle_slug": "sayalikhot21/synthetic-dataset-for-e-commerce-return-analysis",
+  "source": "kaggle",
+  "output_dir": "C:\\DUT\\AI\\ShopMind RAG\\data\\external\\synthetic_returns"
+}

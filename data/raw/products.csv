@@ -1,0 +1,1001 @@
+product_id,name,category,unit_price,avg_discount_rate,transaction_count,total_units_sold,regions,source
+Product_1,Electronics Product 1,Electronics,0.59,0.1601,110,15323,Asia|Europe|North America,synthetic_ecommerce
+Product_10,Toys Product 10,Toys,4.08,0.1565,126,15951,Asia|Europe|North America,synthetic_ecommerce
+Product_100,Home Appliances Product 100,Home Appliances,7.65,0.1425,106,13484,Asia|Europe|North America,synthetic_ecommerce
+Product_1000,Electronics Product 1000,Electronics,7.31,0.1399,89,12094,Asia|Europe|North America,synthetic_ecommerce
+Product_101,Toys Product 101,Toys,1.58,0.1525,102,13366,Asia|Europe|North America,synthetic_ecommerce
+Product_102,Home Appliances Product 102,Home Appliances,3.57,0.1611,101,12909,Asia|Europe|North America,synthetic_ecommerce
+Product_103,Toys Product 103,Toys,6.25,0.1454,85,11803,Asia|Europe|North America,synthetic_ecommerce
+Product_104,Toys Product 104,Toys,4.9,0.1599,92,11905,Asia|Europe|North America,synthetic_ecommerce
+Product_105,Electronics Product 105,Electronics,2.97,0.1463,109,14718,Asia|Europe|North America,synthetic_ecommerce
+Product_106,Electronics Product 106,Electronics,2.82,0.1529,86,12237,Asia|Europe|North America,synthetic_ecommerce
+Product_107,Books Product 107,Books,3.7,0.1547,102,11608,Asia|Europe|North America,synthetic_ecommerce
+Product_108,Toys Product 108,Toys,9.21,0.1388,117,15849,Asia|Europe|North America,synthetic_ecommerce
+Product_109,Home Appliances Product 109,Home Appliances,2.16,0.1422,93,11275,Asia|Europe|North America,synthetic_ecommerce
+Product_11,Books Product 11,Books,9.52,0.143,115,14038,Asia|Europe|North America,synthetic_ecommerce
+Product_110,Books Product 110,Books,10.82,0.1618,96,10751,Asia|Europe|North America,synthetic_ecommerce
+Product_111,Home Appliances Product 111,Home Appliances,8.39,0.1449,115,13933,Asia|Europe|North America,synthetic_ecommerce
+Product_112,Home Appliances Product 112,Home Appliances,1.81,0.1396,98,12154,Asia|Europe|North America,synthetic_ecommerce
+Product_113,Clothing Product 113,Clothing,2.71,0.1331,104,14211,Asia|Europe|North America,synthetic_ecommerce
+Product_114,Home Appliances Product 114,Home Appliances,3.84,0.1452,103,12889,Asia|Europe|North America,synthetic_ecommerce
+Product_115,Home Appliances Product 115,Home Appliances,5.64,0.155,101,12720,Asia|Europe|North America,synthetic_ecommerce
+Product_116,Electronics Product 116,Electronics,1.44,0.1476,102,14734,Asia|Europe|North America,synthetic_ecommerce
+Product_117,Books Product 117,Books,5.15,0.1628,99,11483,Asia|Europe|North America,synthetic_ecommerce
+Product_118,Clothing Product 118,Clothing,3.48,0.1447,109,14174,Asia|Europe|North America,synthetic_ecommerce
+Product_119,Clothing Product 119,Clothing,8.4,0.1706,110,13082,Asia|Europe|North America,synthetic_ecommerce
+Product_12,Books Product 12,Books,8.24,0.1522,93,11568,Asia|Europe|North America,synthetic_ecommerce
+Product_120,Clothing Product 120,Clothing,8.25,0.1472,100,12726,Asia|Europe|North America,synthetic_ecommerce
+Product_121,Toys Product 121,Toys,8.06,0.1728,92,12348,Asia|Europe|North America,synthetic_ecommerce
+Product_122,Toys Product 122,Toys,5.79,0.1658,107,14197,Asia|Europe|North America,synthetic_ecommerce
+Product_123,Books Product 123,Books,5.17,0.159,90,11035,Asia|Europe|North America,synthetic_ecommerce
+Product_124,Toys Product 124,Toys,1.2,0.1607,92,11878,Asia|Europe|North America,synthetic_ecommerce
+Product_125,Toys Product 125,Toys,8.04,0.1545,102,13691,Asia|Europe|North America,synthetic_ecommerce
+Product_126,Books Product 126,Books,3.9,0.1404,106,12393,Asia|Europe|North America,synthetic_ecommerce
+Product_127,Clothing Product 127,Clothing,7.01,0.1473,99,12532,Asia|Europe|North America,synthetic_ecommerce
+Product_128,Home Appliances Product 128,Home Appliances,8.47,0.1505,101,12104,Asia|Europe|North America,synthetic_ecommerce
+Product_129,Electronics Product 129,Electronics,5.3,0.1368,107,15283,Asia|Europe|North America,synthetic_ecommerce
+Product_13,Home Appliances Product 13,Home Appliances,0.74,0.1397,87,10974,Asia|Europe|North America,synthetic_ecommerce
+Product_130,Books Product 130,Books,8.96,0.1465,99,11198,Asia|Europe|North America,synthetic_ecommerce
+Product_131,Clothing Product 131,Clothing,2.15,0.1438,97,12108,Asia|Europe|North America,synthetic_ecommerce
+Product_132,Electronics Product 132,Electronics,0.53,0.1432,101,14575,Asia|Europe|North America,synthetic_ecommerce
+Product_133,Home Appliances Product 133,Home Appliances,3.18,0.1732,97,11375,Asia|Europe|North America,synthetic_ecommerce
+Product_134,Home Appliances Product 134,Home Appliances,6.94,0.1305,99,12123,Asia|Europe|North America,synthetic_ecommerce
+Product_135,Electronics Product 135,Electronics,1.42,0.1626,88,12897,Asia|Europe|North America,synthetic_ecommerce
+Product_136,Home Appliances Product 136,Home Appliances,6.76,0.158,92,11057,Asia|Europe|North America,synthetic_ecommerce
+Product_137,Toys Product 137,Toys,8.81,0.1537,91,12111,Asia|Europe|North America,synthetic_ecommerce
+Product_138,Home Appliances Product 138,Home Appliances,7.0,0.1558,99,11536,Asia|Europe|North America,synthetic_ecommerce
+Product_139,Clothing Product 139,Clothing,3.09,0.1417,96,12026,Asia|Europe|North America,synthetic_ecommerce
+Product_14,Clothing Product 14,Clothing,3.9,0.1526,100,12766,Asia|Europe|North America,synthetic_ecommerce
+Product_140,Electronics Product 140,Electronics,3.19,0.1458,106,15030,Asia|Europe|North America,synthetic_ecommerce
+Product_141,Home Appliances Product 141,Home Appliances,3.17,0.1246,93,12645,Asia|Europe|North America,synthetic_ecommerce
+Product_142,Home Appliances Product 142,Home Appliances,4.14,0.1653,93,10920,Asia|Europe|North America,synthetic_ecommerce
+Product_143,Clothing Product 143,Clothing,2.13,0.1649,112,14927,Asia|Europe|North America,synthetic_ecommerce
+Product_144,Toys Product 144,Toys,4.53,0.1425,115,16623,Asia|Europe|North America,synthetic_ecommerce
+Product_145,Toys Product 145,Toys,5.59,0.1608,97,13264,Asia|Europe|North America,synthetic_ecommerce
+Product_146,Home Appliances Product 146,Home Appliances,6.67,0.1649,89,10518,Asia|Europe|North America,synthetic_ecommerce
+Product_147,Books Product 147,Books,5.17,0.1502,96,11195,Asia|Europe|North America,synthetic_ecommerce
+Product_148,Electronics Product 148,Electronics,5.13,0.1376,91,12410,Asia|Europe|North America,synthetic_ecommerce
+Product_149,Home Appliances Product 149,Home Appliances,6.56,0.1696,102,12681,Asia|Europe|North America,synthetic_ecommerce
+Product_15,Clothing Product 15,Clothing,1.82,0.1636,94,11593,Asia|Europe|North America,synthetic_ecommerce
+Product_150,Toys Product 150,Toys,8.54,0.1434,99,12945,Asia|Europe|North America,synthetic_ecommerce
+Product_151,Electronics Product 151,Electronics,4.98,0.1388,107,14793,Asia|Europe|North America,synthetic_ecommerce
+Product_152,Toys Product 152,Toys,4.05,0.1697,96,11354,Asia|Europe|North America,synthetic_ecommerce
+Product_153,Clothing Product 153,Clothing,3.16,0.1446,90,11372,Asia|Europe|North America,synthetic_ecommerce
+Product_154,Electronics Product 154,Electronics,7.91,0.1399,109,16274,Asia|Europe|North America,synthetic_ecommerce
+Product_155,Books Product 155,Books,1.93,0.1573,112,13196,Asia|Europe|North America,synthetic_ecommerce
+Product_156,Toys Product 156,Toys,1.73,0.1497,109,15532,Asia|Europe|North America,synthetic_ecommerce
+Product_157,Home Appliances Product 157,Home Appliances,1.89,0.1591,103,12756,Asia|Europe|North America,synthetic_ecommerce
+Product_158,Books Product 158,Books,4.42,0.1524,101,12381,Asia|Europe|North America,synthetic_ecommerce
+Product_159,Clothing Product 159,Clothing,7.07,0.155,102,13312,Asia|Europe|North America,synthetic_ecommerce
+Product_16,Electronics Product 16,Electronics,6.64,0.1621,103,15062,Asia|Europe|North America,synthetic_ecommerce
+Product_160,Electronics Product 160,Electronics,9.18,0.1458,96,12644,Asia|Europe|North America,synthetic_ecommerce
+Product_161,Books Product 161,Books,7.91,0.1567,107,12474,Asia|Europe|North America,synthetic_ecommerce
+Product_162,Books Product 162,Books,9.65,0.1471,91,11148,Asia|Europe|North America,synthetic_ecommerce
+Product_163,Toys Product 163,Toys,3.17,0.147,96,13683,Asia|Europe|North America,synthetic_ecommerce
+Product_164,Books Product 164,Books,8.29,0.1742,112,13143,Asia|Europe|North America,synthetic_ecommerce
+Product_165,Clothing Product 165,Clothing,0.6,0.1466,102,12918,Asia|Europe|North America,synthetic_ecommerce
+Product_166,Home Appliances Product 166,Home Appliances,1.48,0.1495,97,11724,Asia|Europe|North America,synthetic_ecommerce
+Product_167,Toys Product 167,Toys,7.91,0.1705,104,13194,Asia|Europe|North America,synthetic_ecommerce
+Product_168,Electronics Product 168,Electronics,2.06,0.1403,75,10791,Asia|Europe|North America,synthetic_ecommerce
+Product_169,Clothing Product 169,Clothing,3.38,0.1492,92,11832,Asia|Europe|North America,synthetic_ecommerce
+Product_17,Electronics Product 17,Electronics,2.43,0.1402,90,12778,Asia|Europe|North America,synthetic_ecommerce
+Product_170,Home Appliances Product 170,Home Appliances,5.84,0.1483,105,13002,Asia|Europe|North America,synthetic_ecommerce
+Product_171,Home Appliances Product 171,Home Appliances,4.96,0.1576,94,12150,Asia|Europe|North America,synthetic_ecommerce
+Product_172,Home Appliances Product 172,Home Appliances,9.03,0.1426,106,12768,Asia|Europe|North America,synthetic_ecommerce
+Product_173,Electronics Product 173,Electronics,6.14,0.1557,88,12914,Asia|Europe|North America,synthetic_ecommerce
+Product_174,Books Product 174,Books,8.41,0.143,105,11790,Asia|Europe|North America,synthetic_ecommerce
+Product_175,Books Product 175,Books,9.17,0.1514,107,12433,Asia|Europe|North America,synthetic_ecommerce
+Product_176,Toys Product 176,Toys,4.34,0.1489,100,13275,Asia|Europe|North America,synthetic_ecommerce
+Product_177,Toys Product 177,Toys,5.12,0.1427,101,14503,Asia|Europe|North America,synthetic_ecommerce
+Product_178,Toys Product 178,Toys,1.45,0.1479,90,12785,Asia|Europe|North America,synthetic_ecommerce
+Product_179,Electronics Product 179,Electronics,7.48,0.1455,94,14069,Asia|Europe|North America,synthetic_ecommerce
+Product_18,Electronics Product 18,Electronics,7.55,0.1628,98,13573,Asia|Europe|North America,synthetic_ecommerce
+Product_180,Clothing Product 180,Clothing,0.66,0.1424,98,13041,Asia|Europe|North America,synthetic_ecommerce
+Product_181,Toys Product 181,Toys,8.89,0.141,90,12067,Asia|Europe|North America,synthetic_ecommerce
+Product_182,Clothing Product 182,Clothing,8.57,0.1538,81,9967,Asia|Europe|North America,synthetic_ecommerce
+Product_183,Clothing Product 183,Clothing,5.74,0.1462,77,9576,Asia|Europe|North America,synthetic_ecommerce
+Product_184,Clothing Product 184,Clothing,5.41,0.1461,99,12591,Asia|Europe|North America,synthetic_ecommerce
+Product_185,Books Product 185,Books,5.98,0.152,109,13064,Asia|Europe|North America,synthetic_ecommerce
+Product_186,Toys Product 186,Toys,0.75,0.1499,83,10979,Asia|Europe|North America,synthetic_ecommerce
+Product_187,Clothing Product 187,Clothing,0.61,0.149,97,13209,Asia|Europe|North America,synthetic_ecommerce
+Product_188,Books Product 188,Books,6.81,0.161,93,10970,Asia|Europe|North America,synthetic_ecommerce
+Product_189,Books Product 189,Books,0.99,0.1577,82,10360,Asia|Europe|North America,synthetic_ecommerce
+Product_19,Clothing Product 19,Clothing,1.24,0.1484,107,13101,Asia|Europe|North America,synthetic_ecommerce
+Product_190,Books Product 190,Books,8.91,0.1596,115,13498,Asia|Europe|North America,synthetic_ecommerce
+Product_191,Books Product 191,Books,5.48,0.1665,96,11075,Asia|Europe|North America,synthetic_ecommerce
+Product_192,Toys Product 192,Toys,2.98,0.1531,108,13744,Asia|Europe|North America,synthetic_ecommerce
+Product_193,Clothing Product 193,Clothing,8.22,0.1551,108,14679,Asia|Europe|North America,synthetic_ecommerce
+Product_194,Home Appliances Product 194,Home Appliances,7.96,0.1411,105,13060,Asia|Europe|North America,synthetic_ecommerce
+Product_195,Books Product 195,Books,1.52,0.1224,103,12059,Asia|Europe|North America,synthetic_ecommerce
+Product_196,Books Product 196,Books,6.2,0.1431,101,11779,Asia|Europe|North America,synthetic_ecommerce
+Product_197,Books Product 197,Books,3.07,0.1425,113,13032,Asia|Europe|North America,synthetic_ecommerce
+Product_198,Books Product 198,Books,11.36,0.1547,109,12980,Asia|Europe|North America,synthetic_ecommerce
+Product_199,Clothing Product 199,Clothing,7.05,0.1534,127,16520,Asia|Europe|North America,synthetic_ecommerce
+Product_2,Books Product 2,Books,0.82,0.1606,105,12335,Asia|Europe|North America,synthetic_ecommerce
+Product_20,Toys Product 20,Toys,9.33,0.1541,91,13315,Asia|Europe|North America,synthetic_ecommerce
+Product_200,Books Product 200,Books,3.45,0.1416,97,10666,Asia|Europe|North America,synthetic_ecommerce
+Product_201,Home Appliances Product 201,Home Appliances,2.36,0.1385,80,9771,Asia|Europe|North America,synthetic_ecommerce
+Product_202,Toys Product 202,Toys,2.31,0.132,122,17101,Asia|Europe|North America,synthetic_ecommerce
+Product_203,Clothing Product 203,Clothing,4.96,0.1591,107,13871,Asia|Europe|North America,synthetic_ecommerce
+Product_204,Electronics Product 204,Electronics,3.03,0.1524,103,13648,Asia|Europe|North America,synthetic_ecommerce
+Product_205,Books Product 205,Books,8.59,0.156,97,11670,Asia|Europe|North America,synthetic_ecommerce
+Product_206,Toys Product 206,Toys,10.07,0.1465,103,13439,Asia|Europe|North America,synthetic_ecommerce
+Product_207,Books Product 207,Books,1.2,0.1722,120,13627,Asia|Europe|North America,synthetic_ecommerce
+Product_208,Electronics Product 208,Electronics,4.07,0.1579,101,13706,Asia|Europe|North America,synthetic_ecommerce
+Product_209,Toys Product 209,Toys,1.08,0.1437,104,13489,Asia|Europe|North America,synthetic_ecommerce
+Product_21,Books Product 21,Books,5.19,0.1518,104,11470,Asia|Europe|North America,synthetic_ecommerce
+Product_210,Books Product 210,Books,0.6,0.1531,98,11219,Asia|Europe|North America,synthetic_ecommerce
+Product_211,Electronics Product 211,Electronics,3.96,0.1494,108,16024,Asia|Europe|North America,synthetic_ecommerce
+Product_212,Electronics Product 212,Electronics,0.49,0.1504,97,14239,Asia|Europe|North America,synthetic_ecommerce
+Product_213,Home Appliances Product 213,Home Appliances,8.04,0.153,98,11901,Asia|Europe|North America,synthetic_ecommerce
+Product_214,Books Product 214,Books,9.07,0.1502,115,13969,Asia|Europe|North America,synthetic_ecommerce
+Product_215,Electronics Product 215,Electronics,0.73,0.1574,135,18788,Asia|Europe|North America,synthetic_ecommerce
+Product_216,Books Product 216,Books,1.05,0.1483,113,13735,Asia|Europe|North America,synthetic_ecommerce
+Product_217,Clothing Product 217,Clothing,8.48,0.1439,79,10300,Asia|Europe|North America,synthetic_ecommerce
+Product_218,Books Product 218,Books,2.46,0.1568,100,12167,Asia|Europe|North America,synthetic_ecommerce
+Product_219,Books Product 219,Books,8.67,0.1433,109,13080,Asia|Europe|North America,synthetic_ecommerce
+Product_22,Toys Product 22,Toys,0.66,0.1522,111,14310,Asia|Europe|North America,synthetic_ecommerce
+Product_220,Clothing Product 220,Clothing,6.66,0.1437,103,12366,Asia|Europe|North America,synthetic_ecommerce
+Product_221,Books Product 221,Books,7.01,0.1602,106,12342,Asia|Europe|North America,synthetic_ecommerce
+Product_222,Home Appliances Product 222,Home Appliances,2.07,0.1344,98,12812,Asia|Europe|North America,synthetic_ecommerce
+Product_223,Toys Product 223,Toys,1.5,0.1529,106,14637,Asia|Europe|North America,synthetic_ecommerce
+Product_224,Electronics Product 224,Electronics,2.68,0.1531,87,12112,Asia|Europe|North America,synthetic_ecommerce
+Product_225,Books Product 225,Books,8.47,0.1474,100,11784,Asia|Europe|North America,synthetic_ecommerce
+Product_226,Toys Product 226,Toys,2.63,0.1357,100,13701,Asia|Europe|North America,synthetic_ecommerce
+Product_227,Home Appliances Product 227,Home Appliances,7.77,0.1571,95,11314,Asia|Europe|North America,synthetic_ecommerce
+Product_228,Electronics Product 228,Electronics,2.38,0.1487,102,14047,Asia|Europe|North America,synthetic_ecommerce
+Product_229,Electronics Product 229,Electronics,4.28,0.1448,102,14310,Asia|Europe|North America,synthetic_ecommerce
+Product_23,Electronics Product 23,Electronics,0.39,0.1471,92,12925,Asia|Europe|North America,synthetic_ecommerce
+Product_230,Books Product 230,Books,9.81,0.1443,103,11973,Asia|Europe|North America,synthetic_ecommerce
+Product_231,Electronics Product 231,Electronics,2.81,0.1466,113,16228,Asia|Europe|North America,synthetic_ecommerce
+Product_232,Books Product 232,Books,7.52,0.1635,117,13136,Asia|Europe|North America,synthetic_ecommerce
+Product_233,Home Appliances Product 233,Home Appliances,9.12,0.1489,75,8471,Asia|Europe|North America,synthetic_ecommerce
+Product_234,Toys Product 234,Toys,1.83,0.1397,93,12547,Asia|Europe|North America,synthetic_ecommerce
+Product_235,Electronics Product 235,Electronics,5.71,0.1505,99,13926,Asia|Europe|North America,synthetic_ecommerce
+Product_236,Home Appliances Product 236,Home Appliances,0.56,0.1464,109,12429,Asia|Europe|North America,synthetic_ecommerce
+Product_237,Electronics Product 237,Electronics,7.91,0.1626,106,14689,Asia|Europe|North America,synthetic_ecommerce
+Product_238,Toys Product 238,Toys,7.71,0.1535,93,12415,Asia|Europe|North America,synthetic_ecommerce
+Product_239,Clothing Product 239,Clothing,6.68,0.1501,78,9755,Asia|Europe|North America,synthetic_ecommerce
+Product_24,Clothing Product 24,Clothing,3.06,0.1502,109,13989,Asia|Europe|North America,synthetic_ecommerce
+Product_240,Electronics Product 240,Electronics,0.97,0.1464,101,13991,Asia|Europe|North America,synthetic_ecommerce
+Product_241,Toys Product 241,Toys,1.97,0.1504,103,13271,Asia|Europe|North America,synthetic_ecommerce
+Product_242,Electronics Product 242,Electronics,7.4,0.1515,102,14297,Asia|Europe|North America,synthetic_ecommerce
+Product_243,Home Appliances Product 243,Home Appliances,7.18,0.1465,115,13532,Asia|Europe|North America,synthetic_ecommerce
+Product_244,Clothing Product 244,Clothing,4.02,0.1622,97,11681,Asia|Europe|North America,synthetic_ecommerce
+Product_245,Electronics Product 245,Electronics,7.39,0.1439,69,9301,Asia|Europe|North America,synthetic_ecommerce
+Product_246,Toys Product 246,Toys,6.07,0.1583,99,13524,Asia|Europe|North America,synthetic_ecommerce
+Product_247,Home Appliances Product 247,Home Appliances,7.55,0.1534,92,10901,Asia|Europe|North America,synthetic_ecommerce
+Product_248,Clothing Product 248,Clothing,8.94,0.1563,98,13061,Asia|Europe|North America,synthetic_ecommerce
+Product_249,Clothing Product 249,Clothing,1.73,0.1557,88,10732,Asia|Europe|North America,synthetic_ecommerce
+Product_25,Books Product 25,Books,1.13,0.1543,111,13712,Asia|Europe|North America,synthetic_ecommerce
+Product_250,Electronics Product 250,Electronics,4.74,0.1507,90,13223,Asia|Europe|North America,synthetic_ecommerce
+Product_251,Electronics Product 251,Electronics,3.93,0.1487,98,13517,Asia|Europe|North America,synthetic_ecommerce
+Product_252,Clothing Product 252,Clothing,2.04,0.147,74,9228,Asia|Europe|North America,synthetic_ecommerce
+Product_253,Books Product 253,Books,6.85,0.1496,124,15002,Asia|Europe|North America,synthetic_ecommerce
+Product_254,Toys Product 254,Toys,5.36,0.1586,78,10130,Asia|Europe|North America,synthetic_ecommerce
+Product_255,Home Appliances Product 255,Home Appliances,0.75,0.1443,99,12586,Asia|Europe|North America,synthetic_ecommerce
+Product_256,Toys Product 256,Toys,5.98,0.1496,106,14932,Asia|Europe|North America,synthetic_ecommerce
+Product_257,Home Appliances Product 257,Home Appliances,7.56,0.1577,97,11999,Asia|Europe|North America,synthetic_ecommerce
+Product_258,Home Appliances Product 258,Home Appliances,9.61,0.1411,118,15216,Asia|Europe|North America,synthetic_ecommerce
+Product_259,Books Product 259,Books,1.57,0.1638,102,11988,Asia|Europe|North America,synthetic_ecommerce
+Product_26,Home Appliances Product 26,Home Appliances,3.77,0.1597,95,11651,Asia|Europe|North America,synthetic_ecommerce
+Product_260,Books Product 260,Books,7.23,0.1515,93,10601,Asia|Europe|North America,synthetic_ecommerce
+Product_261,Toys Product 261,Toys,1.85,0.1457,110,14108,Asia|Europe|North America,synthetic_ecommerce
+Product_262,Electronics Product 262,Electronics,5.79,0.144,103,14724,Asia|Europe|North America,synthetic_ecommerce
+Product_263,Electronics Product 263,Electronics,5.11,0.1527,115,16582,Asia|Europe|North America,synthetic_ecommerce
+Product_264,Home Appliances Product 264,Home Appliances,1.76,0.14,91,10928,Asia|Europe|North America,synthetic_ecommerce
+Product_265,Home Appliances Product 265,Home Appliances,7.86,0.1635,102,12486,Asia|Europe|North America,synthetic_ecommerce
+Product_266,Clothing Product 266,Clothing,4.37,0.1578,87,12231,Asia|Europe|North America,synthetic_ecommerce
+Product_267,Books Product 267,Books,4.68,0.1601,99,11485,Asia|Europe|North America,synthetic_ecommerce
+Product_268,Home Appliances Product 268,Home Appliances,1.05,0.1482,104,12121,Asia|Europe|North America,synthetic_ecommerce
+Product_269,Toys Product 269,Toys,6.27,0.1437,111,14885,Asia|Europe|North America,synthetic_ecommerce
+Product_27,Electronics Product 27,Electronics,5.26,0.1535,113,15762,Asia|Europe|North America,synthetic_ecommerce
+Product_270,Clothing Product 270,Clothing,3.77,0.1519,91,11177,Asia|Europe|North America,synthetic_ecommerce
+Product_271,Home Appliances Product 271,Home Appliances,9.21,0.1351,115,13314,Asia|Europe|North America,synthetic_ecommerce
+Product_272,Home Appliances Product 272,Home Appliances,3.45,0.1335,84,10285,Asia|Europe|North America,synthetic_ecommerce
+Product_273,Toys Product 273,Toys,2.14,0.148,95,13064,Asia|Europe|North America,synthetic_ecommerce
+Product_274,Toys Product 274,Toys,5.68,0.1484,86,11458,Asia|Europe|North America,synthetic_ecommerce
+Product_275,Books Product 275,Books,3.55,0.1546,115,13732,Asia|Europe|North America,synthetic_ecommerce
+Product_276,Toys Product 276,Toys,8.49,0.147,106,13248,Asia|Europe|North America,synthetic_ecommerce
+Product_277,Home Appliances Product 277,Home Appliances,5.84,0.1539,100,12385,Asia|Europe|North America,synthetic_ecommerce
+Product_278,Clothing Product 278,Clothing,4.17,0.1531,88,11455,Asia|Europe|North America,synthetic_ecommerce
+Product_279,Home Appliances Product 279,Home Appliances,1.62,0.1435,100,12179,Asia|Europe|North America,synthetic_ecommerce
+Product_28,Home Appliances Product 28,Home Appliances,1.3,0.1291,102,12270,Asia|Europe|North America,synthetic_ecommerce
+Product_280,Electronics Product 280,Electronics,8.61,0.1554,99,13590,Asia|Europe|North America,synthetic_ecommerce
+Product_281,Books Product 281,Books,6.16,0.1504,85,9512,Asia|Europe|North America,synthetic_ecommerce
+Product_282,Toys Product 282,Toys,7.55,0.1497,78,10363,Asia|Europe|North America,synthetic_ecommerce
+Product_283,Books Product 283,Books,4.38,0.1477,91,10188,Asia|Europe|North America,synthetic_ecommerce
+Product_284,Home Appliances Product 284,Home Appliances,5.81,0.1359,88,10748,Asia|Europe|North America,synthetic_ecommerce
+Product_285,Electronics Product 285,Electronics,5.53,0.1527,117,16569,Asia|Europe|North America,synthetic_ecommerce
+Product_286,Toys Product 286,Toys,3.08,0.136,95,12907,Asia|Europe|North America,synthetic_ecommerce
+Product_287,Toys Product 287,Toys,0.25,0.1469,101,13643,Asia|Europe|North America,synthetic_ecommerce
+Product_288,Electronics Product 288,Electronics,1.74,0.1306,86,11353,Asia|Europe|North America,synthetic_ecommerce
+Product_289,Toys Product 289,Toys,1.48,0.1575,102,13875,Asia|Europe|North America,synthetic_ecommerce
+Product_29,Clothing Product 29,Clothing,8.42,0.144,100,12452,Asia|Europe|North America,synthetic_ecommerce
+Product_290,Toys Product 290,Toys,1.74,0.1466,87,11148,Asia|Europe|North America,synthetic_ecommerce
+Product_291,Toys Product 291,Toys,5.46,0.1565,102,13768,Asia|Europe|North America,synthetic_ecommerce
+Product_292,Toys Product 292,Toys,6.06,0.17,83,10763,Asia|Europe|North America,synthetic_ecommerce
+Product_293,Books Product 293,Books,3.41,0.1557,104,11716,Asia|Europe|North America,synthetic_ecommerce
+Product_294,Books Product 294,Books,3.11,0.1564,104,11601,Asia|Europe|North America,synthetic_ecommerce
+Product_295,Toys Product 295,Toys,2.21,0.1473,91,11452,Asia|Europe|North America,synthetic_ecommerce
+Product_296,Books Product 296,Books,2.95,0.1418,104,12264,Asia|Europe|North America,synthetic_ecommerce
+Product_297,Electronics Product 297,Electronics,5.64,0.1487,118,15961,Asia|Europe|North America,synthetic_ecommerce
+Product_298,Electronics Product 298,Electronics,5.03,0.137,102,13637,Asia|Europe|North America,synthetic_ecommerce
+Product_299,Books Product 299,Books,0.85,0.1331,87,9652,Asia|Europe|North America,synthetic_ecommerce
+Product_3,Electronics Product 3,Electronics,0.61,0.1456,100,13880,Asia|Europe|North America,synthetic_ecommerce
+Product_30,Electronics Product 30,Electronics,8.08,0.1488,104,14305,Asia|Europe|North America,synthetic_ecommerce
+Product_300,Electronics Product 300,Electronics,4.41,0.1482,118,15896,Asia|Europe|North America,synthetic_ecommerce
+Product_301,Toys Product 301,Toys,5.71,0.1528,115,15627,Asia|Europe|North America,synthetic_ecommerce
+Product_302,Electronics Product 302,Electronics,8.23,0.1493,106,14316,Asia|Europe|North America,synthetic_ecommerce
+Product_303,Clothing Product 303,Clothing,9.57,0.1444,102,13171,Asia|Europe|North America,synthetic_ecommerce
+Product_304,Electronics Product 304,Electronics,3.15,0.1352,119,16004,Asia|Europe|North America,synthetic_ecommerce
+Product_305,Home Appliances Product 305,Home Appliances,5.08,0.1551,98,12249,Asia|Europe|North America,synthetic_ecommerce
+Product_306,Electronics Product 306,Electronics,7.11,0.1537,90,11600,Asia|Europe|North America,synthetic_ecommerce
+Product_307,Electronics Product 307,Electronics,1.2,0.1486,125,16949,Asia|Europe|North America,synthetic_ecommerce
+Product_308,Home Appliances Product 308,Home Appliances,9.47,0.149,91,12053,Asia|Europe|North America,synthetic_ecommerce
+Product_309,Home Appliances Product 309,Home Appliances,5.4,0.1474,99,11701,Asia|Europe|North America,synthetic_ecommerce
+Product_31,Toys Product 31,Toys,2.0,0.1507,104,14136,Asia|Europe|North America,synthetic_ecommerce
+Product_310,Electronics Product 310,Electronics,3.69,0.136,97,13814,Asia|Europe|North America,synthetic_ecommerce
+Product_311,Electronics Product 311,Electronics,6.16,0.1618,106,14370,Asia|Europe|North America,synthetic_ecommerce
+Product_312,Electronics Product 312,Electronics,9.43,0.1651,93,13171,Asia|Europe|North America,synthetic_ecommerce
+Product_313,Electronics Product 313,Electronics,2.0,0.1488,89,12388,Asia|Europe|North America,synthetic_ecommerce
+Product_314,Clothing Product 314,Clothing,5.61,0.1506,108,13837,Asia|Europe|North America,synthetic_ecommerce
+Product_315,Clothing Product 315,Clothing,3.73,0.1428,100,12681,Asia|Europe|North America,synthetic_ecommerce
+Product_316,Electronics Product 316,Electronics,2.64,0.1361,96,13252,Asia|Europe|North America,synthetic_ecommerce
+Product_317,Electronics Product 317,Electronics,4.1,0.1492,107,15607,Asia|Europe|North America,synthetic_ecommerce
+Product_318,Books Product 318,Books,9.03,0.146,97,11486,Asia|Europe|North America,synthetic_ecommerce
+Product_319,Clothing Product 319,Clothing,5.68,0.1548,89,11561,Asia|Europe|North America,synthetic_ecommerce
+Product_32,Home Appliances Product 32,Home Appliances,0.66,0.1624,102,12711,Asia|Europe|North America,synthetic_ecommerce
+Product_320,Books Product 320,Books,2.89,0.1398,92,10872,Asia|Europe|North America,synthetic_ecommerce
+Product_321,Home Appliances Product 321,Home Appliances,7.3,0.1478,102,12488,Asia|Europe|North America,synthetic_ecommerce
+Product_322,Toys Product 322,Toys,7.08,0.1437,90,12392,Asia|Europe|North America,synthetic_ecommerce
+Product_323,Electronics Product 323,Electronics,7.48,0.1551,107,14537,Asia|Europe|North America,synthetic_ecommerce
+Product_324,Clothing Product 324,Clothing,4.87,0.1576,94,12081,Asia|Europe|North America,synthetic_ecommerce
+Product_325,Books Product 325,Books,8.53,0.1508,106,12034,Asia|Europe|North America,synthetic_ecommerce
+Product_326,Home Appliances Product 326,Home Appliances,1.81,0.153,99,11977,Asia|Europe|North America,synthetic_ecommerce
+Product_327,Clothing Product 327,Clothing,0.58,0.1651,105,14162,Asia|Europe|North America,synthetic_ecommerce
+Product_328,Books Product 328,Books,7.43,0.1459,93,10728,Asia|Europe|North America,synthetic_ecommerce
+Product_329,Toys Product 329,Toys,9.34,0.1453,106,14532,Asia|Europe|North America,synthetic_ecommerce
+Product_33,Electronics Product 33,Electronics,3.23,0.1402,104,13354,Asia|Europe|North America,synthetic_ecommerce
+Product_330,Home Appliances Product 330,Home Appliances,6.47,0.1501,99,13064,Asia|Europe|North America,synthetic_ecommerce
+Product_331,Clothing Product 331,Clothing,2.13,0.143,109,14795,Asia|Europe|North America,synthetic_ecommerce
+Product_332,Toys Product 332,Toys,2.77,0.1459,105,14111,Asia|Europe|North America,synthetic_ecommerce
+Product_333,Books Product 333,Books,9.37,0.1499,110,12753,Asia|Europe|North America,synthetic_ecommerce
+Product_334,Toys Product 334,Toys,4.86,0.159,93,11824,Asia|Europe|North America,synthetic_ecommerce
+Product_335,Books Product 335,Books,7.87,0.147,101,12282,Asia|Europe|North America,synthetic_ecommerce
+Product_336,Books Product 336,Books,4.96,0.1544,89,10820,Asia|Europe|North America,synthetic_ecommerce
+Product_337,Electronics Product 337,Electronics,3.84,0.1441,114,14873,Asia|Europe|North America,synthetic_ecommerce
+Product_338,Toys Product 338,Toys,0.61,0.1452,95,12692,Asia|Europe|North America,synthetic_ecommerce
+Product_339,Electronics Product 339,Electronics,5.77,0.1337,79,10922,Asia|Europe|North America,synthetic_ecommerce
+Product_34,Clothing Product 34,Clothing,8.26,0.1502,109,14657,Asia|Europe|North America,synthetic_ecommerce
+Product_340,Books Product 340,Books,9.53,0.1689,94,10739,Asia|Europe|North America,synthetic_ecommerce
+Product_341,Clothing Product 341,Clothing,2.58,0.1406,103,12540,Asia|Europe|North America,synthetic_ecommerce
+Product_342,Electronics Product 342,Electronics,3.56,0.1514,97,13153,Asia|Europe|North America,synthetic_ecommerce
+Product_343,Electronics Product 343,Electronics,3.58,0.147,98,14525,Asia|Europe|North America,synthetic_ecommerce
+Product_344,Books Product 344,Books,6.49,0.158,106,11570,Asia|Europe|North America,synthetic_ecommerce
+Product_345,Toys Product 345,Toys,0.84,0.1438,104,13780,Asia|Europe|North America,synthetic_ecommerce
+Product_346,Books Product 346,Books,4.08,0.179,71,8268,Asia|Europe|North America,synthetic_ecommerce
+Product_347,Books Product 347,Books,4.99,0.1587,127,14651,Asia|Europe|North America,synthetic_ecommerce
+Product_348,Toys Product 348,Toys,3.42,0.1563,90,12060,Asia|Europe|North America,synthetic_ecommerce
+Product_349,Books Product 349,Books,8.7,0.1331,100,12103,Asia|Europe|North America,synthetic_ecommerce
+Product_35,Clothing Product 35,Clothing,0.56,0.1533,92,11424,Asia|Europe|North America,synthetic_ecommerce
+Product_350,Home Appliances Product 350,Home Appliances,3.71,0.1429,114,13175,Asia|Europe|North America,synthetic_ecommerce
+Product_351,Toys Product 351,Toys,7.4,0.1521,92,11794,Asia|Europe|North America,synthetic_ecommerce
+Product_352,Clothing Product 352,Clothing,9.13,0.1649,95,11631,Asia|Europe|North America,synthetic_ecommerce
+Product_353,Toys Product 353,Toys,0.72,0.1465,104,13766,Asia|Europe|North America,synthetic_ecommerce
+Product_354,Toys Product 354,Toys,4.65,0.1561,90,12118,Asia|Europe|North America,synthetic_ecommerce
+Product_355,Electronics Product 355,Electronics,2.61,0.1266,106,14953,Asia|Europe|North America,synthetic_ecommerce
+Product_356,Electronics Product 356,Electronics,8.27,0.1704,104,14832,Asia|Europe|North America,synthetic_ecommerce
+Product_357,Electronics Product 357,Electronics,0.85,0.1374,94,13360,Asia|Europe|North America,synthetic_ecommerce
+Product_358,Books Product 358,Books,9.75,0.1439,109,12254,Asia|Europe|North America,synthetic_ecommerce
+Product_359,Toys Product 359,Toys,3.98,0.1514,81,10537,Asia|Europe|North America,synthetic_ecommerce
+Product_36,Clothing Product 36,Clothing,10.41,0.161,98,12090,Asia|Europe|North America,synthetic_ecommerce
+Product_360,Toys Product 360,Toys,1.28,0.1599,89,12052,Asia|Europe|North America,synthetic_ecommerce
+Product_361,Clothing Product 361,Clothing,8.65,0.1537,115,14562,Asia|Europe|North America,synthetic_ecommerce
+Product_362,Home Appliances Product 362,Home Appliances,5.07,0.1373,103,12646,Asia|Europe|North America,synthetic_ecommerce
+Product_363,Electronics Product 363,Electronics,7.88,0.1506,79,10066,Asia|Europe|North America,synthetic_ecommerce
+Product_364,Toys Product 364,Toys,6.06,0.1653,89,12079,Asia|Europe|North America,synthetic_ecommerce
+Product_365,Books Product 365,Books,7.21,0.1591,95,11895,Asia|Europe|North America,synthetic_ecommerce
+Product_366,Electronics Product 366,Electronics,0.73,0.1642,120,18102,Asia|Europe|North America,synthetic_ecommerce
+Product_367,Toys Product 367,Toys,8.89,0.146,100,12645,Asia|Europe|North America,synthetic_ecommerce
+Product_368,Home Appliances Product 368,Home Appliances,0.29,0.1339,101,12427,Asia|Europe|North America,synthetic_ecommerce
+Product_369,Home Appliances Product 369,Home Appliances,9.19,0.1453,79,9528,Asia|Europe|North America,synthetic_ecommerce
+Product_37,Books Product 37,Books,0.57,0.1621,92,10666,Asia|Europe|North America,synthetic_ecommerce
+Product_370,Toys Product 370,Toys,8.81,0.1305,117,15338,Asia|Europe|North America,synthetic_ecommerce
+Product_371,Toys Product 371,Toys,7.95,0.1529,104,13567,Asia|Europe|North America,synthetic_ecommerce
+Product_372,Electronics Product 372,Electronics,5.38,0.1525,106,14772,Asia|Europe|North America,synthetic_ecommerce
+Product_373,Books Product 373,Books,10.19,0.1434,110,12685,Asia|Europe|North America,synthetic_ecommerce
+Product_374,Toys Product 374,Toys,8.71,0.1607,94,12486,Asia|Europe|North America,synthetic_ecommerce
+Product_375,Clothing Product 375,Clothing,4.34,0.1423,104,13293,Asia|Europe|North America,synthetic_ecommerce
+Product_376,Electronics Product 376,Electronics,8.35,0.1487,97,14075,Asia|Europe|North America,synthetic_ecommerce
+Product_377,Electronics Product 377,Electronics,4.55,0.1506,108,15975,Asia|Europe|North America,synthetic_ecommerce
+Product_378,Toys Product 378,Toys,9.36,0.1545,93,11922,Asia|Europe|North America,synthetic_ecommerce
+Product_379,Books Product 379,Books,2.58,0.1458,113,13815,Asia|Europe|North America,synthetic_ecommerce
+Product_38,Electronics Product 38,Electronics,2.47,0.1297,92,12692,Asia|Europe|North America,synthetic_ecommerce
+Product_380,Electronics Product 380,Electronics,2.47,0.1707,95,13828,Asia|Europe|North America,synthetic_ecommerce
+Product_381,Books Product 381,Books,5.92,0.1441,105,12175,Asia|Europe|North America,synthetic_ecommerce
+Product_382,Toys Product 382,Toys,1.25,0.1561,110,13311,Asia|Europe|North America,synthetic_ecommerce
+Product_383,Toys Product 383,Toys,5.25,0.1556,90,12529,Asia|Europe|North America,synthetic_ecommerce
+Product_384,Home Appliances Product 384,Home Appliances,5.63,0.1417,83,9850,Asia|Europe|North America,synthetic_ecommerce
+Product_385,Clothing Product 385,Clothing,8.09,0.1636,112,15308,Asia|Europe|North America,synthetic_ecommerce
+Product_386,Books Product 386,Books,0.25,0.1523,111,12490,Asia|Europe|North America,synthetic_ecommerce
+Product_387,Clothing Product 387,Clothing,6.56,0.1274,108,12757,Asia|Europe|North America,synthetic_ecommerce
+Product_388,Clothing Product 388,Clothing,8.7,0.1407,103,13271,Asia|Europe|North America,synthetic_ecommerce
+Product_389,Toys Product 389,Toys,9.68,0.1412,97,12889,Asia|Europe|North America,synthetic_ecommerce
+Product_39,Electronics Product 39,Electronics,3.48,0.1371,98,13906,Asia|Europe|North America,synthetic_ecommerce
+Product_390,Home Appliances Product 390,Home Appliances,6.42,0.1513,97,12076,Asia|Europe|North America,synthetic_ecommerce
+Product_391,Home Appliances Product 391,Home Appliances,5.08,0.1448,93,10900,Asia|Europe|North America,synthetic_ecommerce
+Product_392,Electronics Product 392,Electronics,9.48,0.1533,105,14543,Asia|Europe|North America,synthetic_ecommerce
+Product_393,Electronics Product 393,Electronics,2.48,0.1633,114,16395,Asia|Europe|North America,synthetic_ecommerce
+Product_394,Electronics Product 394,Electronics,2.89,0.1561,115,15419,Asia|Europe|North America,synthetic_ecommerce
+Product_395,Electronics Product 395,Electronics,6.37,0.1536,112,15527,Asia|Europe|North America,synthetic_ecommerce
+Product_396,Toys Product 396,Toys,4.84,0.1637,84,11558,Asia|Europe|North America,synthetic_ecommerce
+Product_397,Electronics Product 397,Electronics,5.91,0.1498,92,12563,Asia|Europe|North America,synthetic_ecommerce
+Product_398,Electronics Product 398,Electronics,7.09,0.1444,103,14024,Asia|Europe|North America,synthetic_ecommerce
+Product_399,Home Appliances Product 399,Home Appliances,4.57,0.1535,93,10939,Asia|Europe|North America,synthetic_ecommerce
+Product_4,Home Appliances Product 4,Home Appliances,1.89,0.1449,83,10042,Asia|Europe|North America,synthetic_ecommerce
+Product_40,Toys Product 40,Toys,2.35,0.1506,106,13491,Asia|Europe|North America,synthetic_ecommerce
+Product_400,Home Appliances Product 400,Home Appliances,0.58,0.1566,93,11326,Asia|Europe|North America,synthetic_ecommerce
+Product_401,Electronics Product 401,Electronics,1.85,0.1515,99,13720,Asia|Europe|North America,synthetic_ecommerce
+Product_402,Home Appliances Product 402,Home Appliances,9.97,0.156,89,10634,Asia|Europe|North America,synthetic_ecommerce
+Product_403,Home Appliances Product 403,Home Appliances,7.3,0.138,89,10282,Asia|Europe|North America,synthetic_ecommerce
+Product_404,Books Product 404,Books,10.31,0.1404,119,13930,Asia|Europe|North America,synthetic_ecommerce
+Product_405,Electronics Product 405,Electronics,7.99,0.142,100,14148,Asia|Europe|North America,synthetic_ecommerce
+Product_406,Books Product 406,Books,11.11,0.1499,95,11943,Asia|Europe|North America,synthetic_ecommerce
+Product_407,Books Product 407,Books,3.93,0.1485,102,11108,Asia|Europe|North America,synthetic_ecommerce
+Product_408,Books Product 408,Books,10.41,0.1452,102,12358,Asia|Europe|North America,synthetic_ecommerce
+Product_409,Clothing Product 409,Clothing,6.28,0.1502,82,10839,Asia|Europe|North America,synthetic_ecommerce
+Product_41,Books Product 41,Books,5.31,0.1343,114,13768,Asia|Europe|North America,synthetic_ecommerce
+Product_410,Books Product 410,Books,6.39,0.147,107,12015,Asia|Europe|North America,synthetic_ecommerce
+Product_411,Toys Product 411,Toys,8.84,0.1479,117,16323,Asia|Europe|North America,synthetic_ecommerce
+Product_412,Books Product 412,Books,2.69,0.1454,104,12156,Asia|Europe|North America,synthetic_ecommerce
+Product_413,Home Appliances Product 413,Home Appliances,5.49,0.1434,108,13598,Asia|Europe|North America,synthetic_ecommerce
+Product_414,Home Appliances Product 414,Home Appliances,6.87,0.1626,116,13544,Asia|Europe|North America,synthetic_ecommerce
+Product_415,Clothing Product 415,Clothing,6.59,0.1427,103,13325,Asia|Europe|North America,synthetic_ecommerce
+Product_416,Home Appliances Product 416,Home Appliances,8.98,0.1413,107,13306,Asia|Europe|North America,synthetic_ecommerce
+Product_417,Electronics Product 417,Electronics,2.16,0.1428,102,13141,Asia|Europe|North America,synthetic_ecommerce
+Product_418,Toys Product 418,Toys,2.79,0.1561,90,12099,Asia|Europe|North America,synthetic_ecommerce
+Product_419,Electronics Product 419,Electronics,5.74,0.1493,95,13892,Asia|Europe|North America,synthetic_ecommerce
+Product_42,Toys Product 42,Toys,7.41,0.1549,109,14662,Asia|Europe|North America,synthetic_ecommerce
+Product_420,Toys Product 420,Toys,2.27,0.1499,106,14175,Asia|Europe|North America,synthetic_ecommerce
+Product_421,Toys Product 421,Toys,3.59,0.1481,90,11282,Asia|Europe|North America,synthetic_ecommerce
+Product_422,Books Product 422,Books,4.53,0.1445,109,12218,Asia|Europe|North America,synthetic_ecommerce
+Product_423,Home Appliances Product 423,Home Appliances,0.41,0.1513,100,12327,Asia|Europe|North America,synthetic_ecommerce
+Product_424,Electronics Product 424,Electronics,3.76,0.1441,110,16280,Asia|Europe|North America,synthetic_ecommerce
+Product_425,Toys Product 425,Toys,6.18,0.1269,105,13949,Asia|Europe|North America,synthetic_ecommerce
+Product_426,Toys Product 426,Toys,6.81,0.1483,109,14829,Asia|Europe|North America,synthetic_ecommerce
+Product_427,Toys Product 427,Toys,1.3,0.1553,92,12974,Asia|Europe|North America,synthetic_ecommerce
+Product_428,Electronics Product 428,Electronics,1.01,0.1488,86,11396,Asia|Europe|North America,synthetic_ecommerce
+Product_429,Books Product 429,Books,5.32,0.1418,88,9367,Asia|Europe|North America,synthetic_ecommerce
+Product_43,Clothing Product 43,Clothing,6.5,0.1529,89,11069,Asia|Europe|North America,synthetic_ecommerce
+Product_430,Electronics Product 430,Electronics,5.98,0.1643,115,15511,Asia|Europe|North America,synthetic_ecommerce
+Product_431,Clothing Product 431,Clothing,8.55,0.1507,106,14475,Asia|Europe|North America,synthetic_ecommerce
+Product_432,Toys Product 432,Toys,2.52,0.1512,108,15701,Asia|Europe|North America,synthetic_ecommerce
+Product_433,Toys Product 433,Toys,5.18,0.1483,108,13996,Asia|Europe|North America,synthetic_ecommerce
+Product_434,Books Product 434,Books,0.67,0.1544,109,12992,Asia|Europe|North America,synthetic_ecommerce
+Product_435,Home Appliances Product 435,Home Appliances,2.82,0.1572,106,12967,Asia|Europe|North America,synthetic_ecommerce
+Product_436,Home Appliances Product 436,Home Appliances,7.13,0.1438,95,11591,Asia|Europe|North America,synthetic_ecommerce
+Product_437,Books Product 437,Books,9.72,0.1524,93,11204,Asia|Europe|North America,synthetic_ecommerce
+Product_438,Toys Product 438,Toys,8.85,0.1499,102,12688,Asia|Europe|North America,synthetic_ecommerce
+Product_439,Electronics Product 439,Electronics,0.98,0.152,104,14498,Asia|Europe|North America,synthetic_ecommerce
+Product_44,Home Appliances Product 44,Home Appliances,8.73,0.1648,108,13569,Asia|Europe|North America,synthetic_ecommerce
+Product_440,Electronics Product 440,Electronics,5.09,0.1508,98,13675,Asia|Europe|North America,synthetic_ecommerce
+Product_441,Books Product 441,Books,5.61,0.1477,95,10887,Asia|Europe|North America,synthetic_ecommerce
+Product_442,Clothing Product 442,Clothing,7.19,0.149,100,11755,Asia|Europe|North America,synthetic_ecommerce
+Product_443,Electronics Product 443,Electronics,7.55,0.1652,114,16705,Asia|Europe|North America,synthetic_ecommerce
+Product_444,Home Appliances Product 444,Home Appliances,1.44,0.1505,88,10988,Asia|Europe|North America,synthetic_ecommerce
+Product_445,Clothing Product 445,Clothing,7.55,0.1364,97,11409,Asia|Europe|North America,synthetic_ecommerce
+Product_446,Toys Product 446,Toys,5.66,0.1447,112,14674,Asia|Europe|North America,synthetic_ecommerce
+Product_447,Clothing Product 447,Clothing,2.23,0.1546,95,12448,Asia|Europe|North America,synthetic_ecommerce
+Product_448,Books Product 448,Books,8.24,0.1429,91,10581,Asia|Europe|North America,synthetic_ecommerce
+Product_449,Toys Product 449,Toys,1.43,0.1485,117,15315,Asia|Europe|North America,synthetic_ecommerce
+Product_45,Toys Product 45,Toys,4.87,0.1517,112,14426,Asia|Europe|North America,synthetic_ecommerce
+Product_450,Electronics Product 450,Electronics,3.56,0.1535,92,12707,Asia|Europe|North America,synthetic_ecommerce
+Product_451,Books Product 451,Books,8.04,0.1397,95,11111,Asia|Europe|North America,synthetic_ecommerce
+Product_452,Books Product 452,Books,9.68,0.1505,112,12976,Asia|Europe|North America,synthetic_ecommerce
+Product_453,Clothing Product 453,Clothing,9.27,0.1596,95,12926,Asia|Europe|North America,synthetic_ecommerce
+Product_454,Toys Product 454,Toys,2.54,0.1414,101,13805,Asia|Europe|North America,synthetic_ecommerce
+Product_455,Electronics Product 455,Electronics,6.95,0.1476,86,12634,Asia|Europe|North America,synthetic_ecommerce
+Product_456,Toys Product 456,Toys,4.79,0.1422,87,11963,Asia|Europe|North America,synthetic_ecommerce
+Product_457,Clothing Product 457,Clothing,8.54,0.1505,102,13625,Asia|Europe|North America,synthetic_ecommerce
+Product_458,Home Appliances Product 458,Home Appliances,4.76,0.1646,91,11379,Asia|Europe|North America,synthetic_ecommerce
+Product_459,Clothing Product 459,Clothing,0.97,0.1574,104,13101,Asia|Europe|North America,synthetic_ecommerce
+Product_46,Clothing Product 46,Clothing,6.82,0.1572,94,12083,Asia|Europe|North America,synthetic_ecommerce
+Product_460,Books Product 460,Books,3.3,0.1552,111,12536,Asia|Europe|North America,synthetic_ecommerce
+Product_461,Clothing Product 461,Clothing,8.24,0.1438,88,10908,Asia|Europe|North America,synthetic_ecommerce
+Product_462,Clothing Product 462,Clothing,3.24,0.1496,106,13515,Asia|Europe|North America,synthetic_ecommerce
+Product_463,Clothing Product 463,Clothing,5.1,0.15,103,13583,Asia|Europe|North America,synthetic_ecommerce
+Product_464,Home Appliances Product 464,Home Appliances,1.28,0.1531,112,13441,Asia|Europe|North America,synthetic_ecommerce
+Product_465,Clothing Product 465,Clothing,2.95,0.1479,119,14679,Asia|Europe|North America,synthetic_ecommerce
+Product_466,Books Product 466,Books,6.58,0.1591,86,9877,Asia|Europe|North America,synthetic_ecommerce
+Product_467,Toys Product 467,Toys,0.96,0.1494,81,10506,Asia|Europe|North America,synthetic_ecommerce
+Product_468,Clothing Product 468,Clothing,5.89,0.1422,102,12509,Asia|Europe|North America,synthetic_ecommerce
+Product_469,Home Appliances Product 469,Home Appliances,3.34,0.1324,103,13254,Asia|Europe|North America,synthetic_ecommerce
+Product_47,Toys Product 47,Toys,10.49,0.1453,93,11938,Asia|Europe|North America,synthetic_ecommerce
+Product_470,Electronics Product 470,Electronics,6.66,0.1511,101,14507,Asia|Europe|North America,synthetic_ecommerce
+Product_471,Clothing Product 471,Clothing,5.21,0.1398,116,14188,Asia|Europe|North America,synthetic_ecommerce
+Product_472,Electronics Product 472,Electronics,2.49,0.1444,97,13001,Asia|Europe|North America,synthetic_ecommerce
+Product_473,Electronics Product 473,Electronics,7.03,0.1531,107,14899,Asia|Europe|North America,synthetic_ecommerce
+Product_474,Toys Product 474,Toys,6.86,0.1424,94,12691,Asia|Europe|North America,synthetic_ecommerce
+Product_475,Electronics Product 475,Electronics,4.13,0.149,115,16108,Asia|Europe|North America,synthetic_ecommerce
+Product_476,Toys Product 476,Toys,4.66,0.1465,99,13722,Asia|Europe|North America,synthetic_ecommerce
+Product_477,Books Product 477,Books,2.31,0.148,104,12245,Asia|Europe|North America,synthetic_ecommerce
+Product_478,Electronics Product 478,Electronics,3.17,0.1561,109,14626,Asia|Europe|North America,synthetic_ecommerce
+Product_479,Toys Product 479,Toys,9.52,0.1512,97,12748,Asia|Europe|North America,synthetic_ecommerce
+Product_48,Home Appliances Product 48,Home Appliances,2.04,0.1528,110,14229,Asia|Europe|North America,synthetic_ecommerce
+Product_480,Books Product 480,Books,9.73,0.1567,102,11527,Asia|Europe|North America,synthetic_ecommerce
+Product_481,Clothing Product 481,Clothing,5.43,0.1466,93,12862,Asia|Europe|North America,synthetic_ecommerce
+Product_482,Toys Product 482,Toys,0.82,0.1488,104,14490,Asia|Europe|North America,synthetic_ecommerce
+Product_483,Books Product 483,Books,6.34,0.1554,91,10662,Asia|Europe|North America,synthetic_ecommerce
+Product_484,Electronics Product 484,Electronics,5.18,0.158,96,13192,Asia|Europe|North America,synthetic_ecommerce
+Product_485,Electronics Product 485,Electronics,6.9,0.1485,88,11642,Asia|Europe|North America,synthetic_ecommerce
+Product_486,Electronics Product 486,Electronics,4.5,0.1544,98,13500,Asia|Europe|North America,synthetic_ecommerce
+Product_487,Books Product 487,Books,5.13,0.1415,106,12503,Asia|Europe|North America,synthetic_ecommerce
+Product_488,Books Product 488,Books,4.26,0.1629,91,10079,Asia|Europe|North America,synthetic_ecommerce
+Product_489,Home Appliances Product 489,Home Appliances,8.63,0.1444,95,11233,Asia|Europe|North America,synthetic_ecommerce
+Product_49,Home Appliances Product 49,Home Appliances,4.93,0.1452,101,13237,Asia|Europe|North America,synthetic_ecommerce
+Product_490,Clothing Product 490,Clothing,3.75,0.1631,101,11977,Asia|Europe|North America,synthetic_ecommerce
+Product_491,Electronics Product 491,Electronics,0.56,0.1582,97,13059,Asia|Europe|North America,synthetic_ecommerce
+Product_492,Home Appliances Product 492,Home Appliances,2.88,0.1626,82,9453,Asia|Europe|North America,synthetic_ecommerce
+Product_493,Electronics Product 493,Electronics,6.29,0.1407,105,15065,Asia|Europe|North America,synthetic_ecommerce
+Product_494,Home Appliances Product 494,Home Appliances,0.74,0.1699,86,11530,Asia|Europe|North America,synthetic_ecommerce
+Product_495,Books Product 495,Books,1.18,0.1497,89,10322,Asia|Europe|North America,synthetic_ecommerce
+Product_496,Toys Product 496,Toys,5.45,0.1647,98,13838,Asia|Europe|North America,synthetic_ecommerce
+Product_497,Home Appliances Product 497,Home Appliances,7.24,0.146,111,13152,Asia|Europe|North America,synthetic_ecommerce
+Product_498,Home Appliances Product 498,Home Appliances,10.9,0.1488,104,12440,Asia|Europe|North America,synthetic_ecommerce
+Product_499,Electronics Product 499,Electronics,8.33,0.1484,108,15051,Asia|Europe|North America,synthetic_ecommerce
+Product_5,Clothing Product 5,Clothing,4.22,0.143,96,12579,Asia|Europe|North America,synthetic_ecommerce
+Product_50,Toys Product 50,Toys,5.59,0.1483,112,15877,Asia|Europe|North America,synthetic_ecommerce
+Product_500,Toys Product 500,Toys,3.74,0.1598,81,11656,Asia|Europe|North America,synthetic_ecommerce
+Product_501,Clothing Product 501,Clothing,3.29,0.1543,88,10952,Asia|Europe|North America,synthetic_ecommerce
+Product_502,Home Appliances Product 502,Home Appliances,3.33,0.1576,111,14332,Asia|Europe|North America,synthetic_ecommerce
+Product_503,Home Appliances Product 503,Home Appliances,3.09,0.151,88,10786,Asia|Europe|North America,synthetic_ecommerce
+Product_504,Clothing Product 504,Clothing,3.03,0.1494,108,14051,Asia|Europe|North America,synthetic_ecommerce
+Product_505,Clothing Product 505,Clothing,3.09,0.1602,103,12960,Asia|Europe|North America,synthetic_ecommerce
+Product_506,Home Appliances Product 506,Home Appliances,3.54,0.1521,112,13618,Asia|Europe|North America,synthetic_ecommerce
+Product_507,Books Product 507,Books,9.0,0.1625,102,12236,Asia|Europe|North America,synthetic_ecommerce
+Product_508,Electronics Product 508,Electronics,0.86,0.1311,89,11867,Asia|Europe|North America,synthetic_ecommerce
+Product_509,Electronics Product 509,Electronics,3.16,0.1401,96,13241,Asia|Europe|North America,synthetic_ecommerce
+Product_51,Toys Product 51,Toys,5.4,0.1372,99,13233,Asia|Europe|North America,synthetic_ecommerce
+Product_510,Home Appliances Product 510,Home Appliances,5.47,0.1429,87,10896,Asia|Europe|North America,synthetic_ecommerce
+Product_511,Clothing Product 511,Clothing,1.54,0.1677,95,11662,Asia|Europe|North America,synthetic_ecommerce
+Product_512,Home Appliances Product 512,Home Appliances,8.57,0.1543,101,11449,Asia|Europe|North America,synthetic_ecommerce
+Product_513,Home Appliances Product 513,Home Appliances,1.28,0.1415,100,12094,Asia|Europe|North America,synthetic_ecommerce
+Product_514,Clothing Product 514,Clothing,7.89,0.1418,98,12406,Asia|Europe|North America,synthetic_ecommerce
+Product_515,Electronics Product 515,Electronics,7.69,0.1545,91,12618,Asia|Europe|North America,synthetic_ecommerce
+Product_516,Clothing Product 516,Clothing,2.4,0.1513,90,11037,Asia|Europe|North America,synthetic_ecommerce
+Product_517,Electronics Product 517,Electronics,1.88,0.1636,95,13154,Asia|Europe|North America,synthetic_ecommerce
+Product_518,Electronics Product 518,Electronics,6.14,0.1565,96,14535,Asia|Europe|North America,synthetic_ecommerce
+Product_519,Toys Product 519,Toys,0.46,0.1483,109,13812,Asia|Europe|North America,synthetic_ecommerce
+Product_52,Electronics Product 52,Electronics,7.83,0.1499,84,11556,Asia|Europe|North America,synthetic_ecommerce
+Product_520,Clothing Product 520,Clothing,4.15,0.1465,101,12694,Asia|Europe|North America,synthetic_ecommerce
+Product_521,Toys Product 521,Toys,7.26,0.1442,104,13933,Asia|Europe|North America,synthetic_ecommerce
+Product_522,Home Appliances Product 522,Home Appliances,3.76,0.1462,107,13161,Asia|Europe|North America,synthetic_ecommerce
+Product_523,Electronics Product 523,Electronics,3.98,0.1413,93,12057,Asia|Europe|North America,synthetic_ecommerce
+Product_524,Books Product 524,Books,0.55,0.1476,110,12089,Asia|Europe|North America,synthetic_ecommerce
+Product_525,Home Appliances Product 525,Home Appliances,3.1,0.1556,77,9433,Asia|Europe|North America,synthetic_ecommerce
+Product_526,Clothing Product 526,Clothing,3.52,0.1438,112,15299,Asia|Europe|North America,synthetic_ecommerce
+Product_527,Electronics Product 527,Electronics,0.61,0.1585,95,13755,Asia|Europe|North America,synthetic_ecommerce
+Product_528,Electronics Product 528,Electronics,0.68,0.152,98,13398,Asia|Europe|North America,synthetic_ecommerce
+Product_529,Books Product 529,Books,8.82,0.1533,98,10782,Asia|Europe|North America,synthetic_ecommerce
+Product_53,Home Appliances Product 53,Home Appliances,2.44,0.1396,90,11074,Asia|Europe|North America,synthetic_ecommerce
+Product_530,Toys Product 530,Toys,5.13,0.1377,99,13746,Asia|Europe|North America,synthetic_ecommerce
+Product_531,Clothing Product 531,Clothing,7.43,0.1543,83,10576,Asia|Europe|North America,synthetic_ecommerce
+Product_532,Electronics Product 532,Electronics,2.94,0.1572,95,13284,Asia|Europe|North America,synthetic_ecommerce
+Product_533,Electronics Product 533,Electronics,2.33,0.1635,98,15165,Asia|Europe|North America,synthetic_ecommerce
+Product_534,Clothing Product 534,Clothing,2.04,0.1554,93,12237,Asia|Europe|North America,synthetic_ecommerce
+Product_535,Toys Product 535,Toys,8.29,0.1579,86,10582,Asia|Europe|North America,synthetic_ecommerce
+Product_536,Home Appliances Product 536,Home Appliances,5.52,0.1615,114,13052,Asia|Europe|North America,synthetic_ecommerce
+Product_537,Books Product 537,Books,8.73,0.1428,96,10732,Asia|Europe|North America,synthetic_ecommerce
+Product_538,Books Product 538,Books,6.07,0.1441,87,9973,Asia|Europe|North America,synthetic_ecommerce
+Product_539,Toys Product 539,Toys,1.41,0.146,111,15078,Asia|Europe|North America,synthetic_ecommerce
+Product_54,Home Appliances Product 54,Home Appliances,7.47,0.1578,103,12035,Asia|Europe|North America,synthetic_ecommerce
+Product_540,Toys Product 540,Toys,4.65,0.1531,106,13682,Asia|Europe|North America,synthetic_ecommerce
+Product_541,Books Product 541,Books,10.38,0.1577,90,11010,Asia|Europe|North America,synthetic_ecommerce
+Product_542,Toys Product 542,Toys,0.89,0.1484,110,14698,Asia|Europe|North America,synthetic_ecommerce
+Product_543,Clothing Product 543,Clothing,1.48,0.143,99,13102,Asia|Europe|North America,synthetic_ecommerce
+Product_544,Books Product 544,Books,4.47,0.1449,110,12232,Asia|Europe|North America,synthetic_ecommerce
+Product_545,Home Appliances Product 545,Home Appliances,0.79,0.1568,112,13737,Asia|Europe|North America,synthetic_ecommerce
+Product_546,Toys Product 546,Toys,6.39,0.1492,105,13909,Asia|Europe|North America,synthetic_ecommerce
+Product_547,Toys Product 547,Toys,6.14,0.1528,109,14702,Asia|Europe|North America,synthetic_ecommerce
+Product_548,Toys Product 548,Toys,6.97,0.1515,97,12293,Asia|Europe|North America,synthetic_ecommerce
+Product_549,Toys Product 549,Toys,8.01,0.1399,109,14749,Asia|Europe|North America,synthetic_ecommerce
+Product_55,Clothing Product 55,Clothing,8.32,0.1473,105,13991,Asia|Europe|North America,synthetic_ecommerce
+Product_550,Clothing Product 550,Clothing,9.97,0.1416,94,11446,Asia|Europe|North America,synthetic_ecommerce
+Product_551,Electronics Product 551,Electronics,6.97,0.1649,107,15502,Asia|Europe|North America,synthetic_ecommerce
+Product_552,Books Product 552,Books,11.06,0.1452,98,10419,Asia|Europe|North America,synthetic_ecommerce
+Product_553,Electronics Product 553,Electronics,2.13,0.1462,87,12191,Asia|Europe|North America,synthetic_ecommerce
+Product_554,Clothing Product 554,Clothing,7.83,0.1448,91,11782,Asia|Europe|North America,synthetic_ecommerce
+Product_555,Books Product 555,Books,2.7,0.1512,88,10157,Asia|Europe|North America,synthetic_ecommerce
+Product_556,Books Product 556,Books,1.03,0.1377,97,11064,Asia|Europe|North America,synthetic_ecommerce
+Product_557,Home Appliances Product 557,Home Appliances,5.16,0.143,97,11874,Asia|Europe|North America,synthetic_ecommerce
+Product_558,Books Product 558,Books,8.4,0.155,108,12489,Asia|Europe|North America,synthetic_ecommerce
+Product_559,Clothing Product 559,Clothing,0.83,0.1483,95,12284,Asia|Europe|North America,synthetic_ecommerce
+Product_56,Toys Product 56,Toys,4.86,0.1567,93,12695,Asia|Europe|North America,synthetic_ecommerce
+Product_560,Clothing Product 560,Clothing,4.14,0.1488,109,14194,Asia|Europe|North America,synthetic_ecommerce
+Product_561,Clothing Product 561,Clothing,8.42,0.1439,90,11555,Asia|Europe|North America,synthetic_ecommerce
+Product_562,Toys Product 562,Toys,2.26,0.1533,90,12563,Asia|Europe|North America,synthetic_ecommerce
+Product_563,Electronics Product 563,Electronics,8.91,0.1495,111,14848,Asia|Europe|North America,synthetic_ecommerce
+Product_564,Electronics Product 564,Electronics,2.81,0.1509,116,16119,Asia|Europe|North America,synthetic_ecommerce
+Product_565,Toys Product 565,Toys,1.33,0.1601,116,15666,Asia|Europe|North America,synthetic_ecommerce
+Product_566,Toys Product 566,Toys,8.32,0.1507,100,13159,Asia|Europe|North America,synthetic_ecommerce
+Product_567,Home Appliances Product 567,Home Appliances,1.47,0.1314,96,11017,Asia|Europe|North America,synthetic_ecommerce
+Product_568,Books Product 568,Books,7.67,0.1496,137,16317,Asia|Europe|North America,synthetic_ecommerce
+Product_569,Books Product 569,Books,8.23,0.1441,97,11974,Asia|Europe|North America,synthetic_ecommerce
+Product_57,Home Appliances Product 57,Home Appliances,9.21,0.1492,87,10475,Asia|Europe|North America,synthetic_ecommerce
+Product_570,Home Appliances Product 570,Home Appliances,6.71,0.1618,87,10293,Asia|Europe|North America,synthetic_ecommerce
+Product_571,Clothing Product 571,Clothing,7.88,0.1325,101,13545,Asia|Europe|North America,synthetic_ecommerce
+Product_572,Clothing Product 572,Clothing,4.41,0.1452,119,15519,Asia|Europe|North America,synthetic_ecommerce
+Product_573,Toys Product 573,Toys,5.43,0.1402,91,11957,Asia|Europe|North America,synthetic_ecommerce
+Product_574,Electronics Product 574,Electronics,1.94,0.1427,105,13596,Asia|Europe|North America,synthetic_ecommerce
+Product_575,Toys Product 575,Toys,5.45,0.1644,105,14098,Asia|Europe|North America,synthetic_ecommerce
+Product_576,Books Product 576,Books,8.03,0.1435,96,10906,Asia|Europe|North America,synthetic_ecommerce
+Product_577,Clothing Product 577,Clothing,7.15,0.1617,103,12732,Asia|Europe|North America,synthetic_ecommerce
+Product_578,Clothing Product 578,Clothing,1.14,0.1425,101,13628,Asia|Europe|North America,synthetic_ecommerce
+Product_579,Home Appliances Product 579,Home Appliances,8.9,0.1432,114,14156,Asia|Europe|North America,synthetic_ecommerce
+Product_58,Books Product 58,Books,7.29,0.1439,113,13419,Asia|Europe|North America,synthetic_ecommerce
+Product_580,Clothing Product 580,Clothing,6.8,0.1502,104,12813,Asia|Europe|North America,synthetic_ecommerce
+Product_581,Toys Product 581,Toys,3.36,0.1529,94,12076,Asia|Europe|North America,synthetic_ecommerce
+Product_582,Home Appliances Product 582,Home Appliances,3.11,0.1608,106,12693,Asia|Europe|North America,synthetic_ecommerce
+Product_583,Home Appliances Product 583,Home Appliances,2.73,0.154,90,10164,Asia|Europe|North America,synthetic_ecommerce
+Product_584,Home Appliances Product 584,Home Appliances,7.57,0.1556,91,10988,Asia|Europe|North America,synthetic_ecommerce
+Product_585,Toys Product 585,Toys,4.96,0.142,107,14541,Asia|Europe|North America,synthetic_ecommerce
+Product_586,Home Appliances Product 586,Home Appliances,2.7,0.1442,105,13093,Asia|Europe|North America,synthetic_ecommerce
+Product_587,Books Product 587,Books,9.55,0.1647,102,11404,Asia|Europe|North America,synthetic_ecommerce
+Product_588,Clothing Product 588,Clothing,6.76,0.1574,112,13322,Asia|Europe|North America,synthetic_ecommerce
+Product_589,Toys Product 589,Toys,2.49,0.1476,106,15060,Asia|Europe|North America,synthetic_ecommerce
+Product_59,Home Appliances Product 59,Home Appliances,6.15,0.1581,95,12103,Asia|Europe|North America,synthetic_ecommerce
+Product_590,Electronics Product 590,Electronics,5.47,0.16,88,12142,Asia|Europe|North America,synthetic_ecommerce
+Product_591,Home Appliances Product 591,Home Appliances,1.86,0.1577,102,13432,Asia|Europe|North America,synthetic_ecommerce
+Product_592,Clothing Product 592,Clothing,3.35,0.1411,116,14407,Asia|Europe|North America,synthetic_ecommerce
+Product_593,Clothing Product 593,Clothing,4.51,0.155,88,11505,Asia|Europe|North America,synthetic_ecommerce
+Product_594,Electronics Product 594,Electronics,5.89,0.1598,108,15049,Asia|Europe|North America,synthetic_ecommerce
+Product_595,Toys Product 595,Toys,5.86,0.1531,95,12175,Asia|Europe|North America,synthetic_ecommerce
+Product_596,Toys Product 596,Toys,6.73,0.1563,112,14825,Asia|Europe|North America,synthetic_ecommerce
+Product_597,Books Product 597,Books,10.26,0.151,105,11846,Asia|Europe|North America,synthetic_ecommerce
+Product_598,Home Appliances Product 598,Home Appliances,9.0,0.1458,105,12719,Asia|Europe|North America,synthetic_ecommerce
+Product_599,Home Appliances Product 599,Home Appliances,2.65,0.1309,100,11988,Asia|Europe|North America,synthetic_ecommerce
+Product_6,Home Appliances Product 6,Home Appliances,9.17,0.1587,106,13483,Asia|Europe|North America,synthetic_ecommerce
+Product_60,Electronics Product 60,Electronics,4.52,0.1445,107,14534,Asia|Europe|North America,synthetic_ecommerce
+Product_600,Electronics Product 600,Electronics,3.68,0.157,116,15922,Asia|Europe|North America,synthetic_ecommerce
+Product_601,Electronics Product 601,Electronics,3.44,0.1475,95,13046,Asia|Europe|North America,synthetic_ecommerce
+Product_602,Toys Product 602,Toys,6.25,0.1474,102,13345,Asia|Europe|North America,synthetic_ecommerce
+Product_603,Electronics Product 603,Electronics,4.31,0.1408,103,12678,Asia|Europe|North America,synthetic_ecommerce
+Product_604,Clothing Product 604,Clothing,6.17,0.1597,90,11629,Asia|Europe|North America,synthetic_ecommerce
+Product_605,Toys Product 605,Toys,4.49,0.1534,125,16404,Asia|Europe|North America,synthetic_ecommerce
+Product_606,Electronics Product 606,Electronics,0.9,0.1388,119,16992,Asia|Europe|North America,synthetic_ecommerce
+Product_607,Home Appliances Product 607,Home Appliances,4.09,0.1511,102,12238,Asia|Europe|North America,synthetic_ecommerce
+Product_608,Clothing Product 608,Clothing,2.27,0.1378,119,14908,Asia|Europe|North America,synthetic_ecommerce
+Product_609,Clothing Product 609,Clothing,1.31,0.1527,97,13550,Asia|Europe|North America,synthetic_ecommerce
+Product_61,Books Product 61,Books,9.94,0.1353,99,11286,Asia|Europe|North America,synthetic_ecommerce
+Product_610,Electronics Product 610,Electronics,9.79,0.1446,92,13260,Asia|Europe|North America,synthetic_ecommerce
+Product_611,Home Appliances Product 611,Home Appliances,9.09,0.1524,85,10929,Asia|Europe|North America,synthetic_ecommerce
+Product_612,Electronics Product 612,Electronics,3.33,0.15,115,16333,Asia|Europe|North America,synthetic_ecommerce
+Product_613,Toys Product 613,Toys,8.52,0.1401,90,10897,Asia|Europe|North America,synthetic_ecommerce
+Product_614,Clothing Product 614,Clothing,7.45,0.1532,117,16141,Asia|Europe|North America,synthetic_ecommerce
+Product_615,Books Product 615,Books,8.5,0.1589,93,10573,Asia|Europe|North America,synthetic_ecommerce
+Product_616,Toys Product 616,Toys,2.33,0.1555,118,15821,Asia|Europe|North America,synthetic_ecommerce
+Product_617,Toys Product 617,Toys,1.79,0.1328,92,12664,Asia|Europe|North America,synthetic_ecommerce
+Product_618,Toys Product 618,Toys,10.49,0.1661,98,12416,Asia|Europe|North America,synthetic_ecommerce
+Product_619,Electronics Product 619,Electronics,7.32,0.1588,113,15751,Asia|Europe|North America,synthetic_ecommerce
+Product_62,Toys Product 62,Toys,1.22,0.1632,84,11940,Asia|Europe|North America,synthetic_ecommerce
+Product_620,Electronics Product 620,Electronics,3.64,0.1267,90,12987,Asia|Europe|North America,synthetic_ecommerce
+Product_621,Toys Product 621,Toys,1.68,0.1521,99,14536,Asia|Europe|North America,synthetic_ecommerce
+Product_622,Clothing Product 622,Clothing,5.04,0.1454,91,11304,Asia|Europe|North America,synthetic_ecommerce
+Product_623,Home Appliances Product 623,Home Appliances,5.8,0.1532,104,13080,Asia|Europe|North America,synthetic_ecommerce
+Product_624,Toys Product 624,Toys,5.14,0.1452,96,13116,Asia|Europe|North America,synthetic_ecommerce
+Product_625,Toys Product 625,Toys,7.0,0.1402,88,12311,Asia|Europe|North America,synthetic_ecommerce
+Product_626,Home Appliances Product 626,Home Appliances,4.46,0.1443,103,12555,Asia|Europe|North America,synthetic_ecommerce
+Product_627,Books Product 627,Books,2.23,0.1528,88,11027,Asia|Europe|North America,synthetic_ecommerce
+Product_628,Home Appliances Product 628,Home Appliances,3.21,0.1463,78,9704,Asia|Europe|North America,synthetic_ecommerce
+Product_629,Books Product 629,Books,1.99,0.1456,85,10167,Asia|Europe|North America,synthetic_ecommerce
+Product_63,Home Appliances Product 63,Home Appliances,4.78,0.1357,108,13863,Asia|Europe|North America,synthetic_ecommerce
+Product_630,Toys Product 630,Toys,2.38,0.1456,93,12595,Asia|Europe|North America,synthetic_ecommerce
+Product_631,Home Appliances Product 631,Home Appliances,1.23,0.1467,85,10118,Asia|Europe|North America,synthetic_ecommerce
+Product_632,Books Product 632,Books,8.54,0.1544,91,10685,Asia|Europe|North America,synthetic_ecommerce
+Product_633,Home Appliances Product 633,Home Appliances,10.95,0.1545,94,11047,Asia|Europe|North America,synthetic_ecommerce
+Product_634,Toys Product 634,Toys,4.77,0.1595,94,12523,Asia|Europe|North America,synthetic_ecommerce
+Product_635,Clothing Product 635,Clothing,7.99,0.1601,97,12337,Asia|Europe|North America,synthetic_ecommerce
+Product_636,Electronics Product 636,Electronics,0.47,0.1525,102,14158,Asia|Europe|North America,synthetic_ecommerce
+Product_637,Electronics Product 637,Electronics,5.0,0.1481,89,11945,Asia|Europe|North America,synthetic_ecommerce
+Product_638,Toys Product 638,Toys,0.6,0.1412,104,14425,Asia|Europe|North America,synthetic_ecommerce
+Product_639,Home Appliances Product 639,Home Appliances,3.41,0.1489,114,14023,Asia|Europe|North America,synthetic_ecommerce
+Product_64,Clothing Product 64,Clothing,8.64,0.1557,97,12444,Asia|Europe|North America,synthetic_ecommerce
+Product_640,Electronics Product 640,Electronics,2.45,0.1429,100,14207,Asia|Europe|North America,synthetic_ecommerce
+Product_641,Clothing Product 641,Clothing,1.51,0.1555,110,14277,Asia|Europe|North America,synthetic_ecommerce
+Product_642,Clothing Product 642,Clothing,5.41,0.1388,95,12806,Asia|Europe|North America,synthetic_ecommerce
+Product_643,Books Product 643,Books,8.23,0.1521,102,11797,Asia|Europe|North America,synthetic_ecommerce
+Product_644,Home Appliances Product 644,Home Appliances,4.03,0.141,126,15584,Asia|Europe|North America,synthetic_ecommerce
+Product_645,Clothing Product 645,Clothing,6.13,0.1411,80,10661,Asia|Europe|North America,synthetic_ecommerce
+Product_646,Toys Product 646,Toys,8.47,0.1293,96,12491,Asia|Europe|North America,synthetic_ecommerce
+Product_647,Books Product 647,Books,1.51,0.1517,94,10077,Asia|Europe|North America,synthetic_ecommerce
+Product_648,Electronics Product 648,Electronics,3.58,0.1343,88,12889,Asia|Europe|North America,synthetic_ecommerce
+Product_649,Home Appliances Product 649,Home Appliances,6.85,0.1453,104,12786,Asia|Europe|North America,synthetic_ecommerce
+Product_65,Clothing Product 65,Clothing,3.24,0.1636,88,10813,Asia|Europe|North America,synthetic_ecommerce
+Product_650,Toys Product 650,Toys,8.37,0.1529,94,11489,Asia|Europe|North America,synthetic_ecommerce
+Product_651,Toys Product 651,Toys,0.18,0.1377,119,16507,Asia|Europe|North America,synthetic_ecommerce
+Product_652,Home Appliances Product 652,Home Appliances,8.62,0.1533,90,11473,Asia|Europe|North America,synthetic_ecommerce
+Product_653,Electronics Product 653,Electronics,6.33,0.1466,96,13745,Asia|Europe|North America,synthetic_ecommerce
+Product_654,Clothing Product 654,Clothing,7.29,0.1366,83,10302,Asia|Europe|North America,synthetic_ecommerce
+Product_655,Toys Product 655,Toys,8.58,0.1509,74,9730,Asia|Europe|North America,synthetic_ecommerce
+Product_656,Books Product 656,Books,1.04,0.1468,102,11204,Asia|Europe|North America,synthetic_ecommerce
+Product_657,Books Product 657,Books,9.65,0.1439,118,14408,Asia|Europe|North America,synthetic_ecommerce
+Product_658,Books Product 658,Books,8.39,0.1506,90,10675,Asia|Europe|North America,synthetic_ecommerce
+Product_659,Home Appliances Product 659,Home Appliances,9.69,0.1499,94,11805,Asia|Europe|North America,synthetic_ecommerce
+Product_66,Toys Product 66,Toys,7.29,0.1535,103,13167,Asia|Europe|North America,synthetic_ecommerce
+Product_660,Electronics Product 660,Electronics,2.08,0.1618,79,11502,Asia|Europe|North America,synthetic_ecommerce
+Product_661,Books Product 661,Books,5.02,0.154,112,12890,Asia|Europe|North America,synthetic_ecommerce
+Product_662,Books Product 662,Books,8.41,0.1547,94,10642,Asia|Europe|North America,synthetic_ecommerce
+Product_663,Clothing Product 663,Clothing,8.76,0.151,104,13757,Asia|Europe|North America,synthetic_ecommerce
+Product_664,Toys Product 664,Toys,8.16,0.1426,88,12169,Asia|Europe|North America,synthetic_ecommerce
+Product_665,Toys Product 665,Toys,4.54,0.1481,116,15424,Asia|Europe|North America,synthetic_ecommerce
+Product_666,Electronics Product 666,Electronics,6.29,0.1506,87,11908,Asia|Europe|North America,synthetic_ecommerce
+Product_667,Books Product 667,Books,3.71,0.1506,103,12463,Asia|Europe|North America,synthetic_ecommerce
+Product_668,Clothing Product 668,Clothing,8.37,0.1667,95,12133,Asia|Europe|North America,synthetic_ecommerce
+Product_669,Electronics Product 669,Electronics,1.64,0.156,112,16391,Asia|Europe|North America,synthetic_ecommerce
+Product_67,Books Product 67,Books,4.46,0.1579,81,10097,Asia|Europe|North America,synthetic_ecommerce
+Product_670,Home Appliances Product 670,Home Appliances,5.05,0.1566,87,9800,Asia|Europe|North America,synthetic_ecommerce
+Product_671,Toys Product 671,Toys,1.4,0.1474,88,12118,Asia|Europe|North America,synthetic_ecommerce
+Product_672,Clothing Product 672,Clothing,7.72,0.1325,112,14448,Asia|Europe|North America,synthetic_ecommerce
+Product_673,Home Appliances Product 673,Home Appliances,5.75,0.147,115,14303,Asia|Europe|North America,synthetic_ecommerce
+Product_674,Home Appliances Product 674,Home Appliances,0.26,0.1549,107,13061,Asia|Europe|North America,synthetic_ecommerce
+Product_675,Toys Product 675,Toys,3.07,0.1387,98,12453,Asia|Europe|North America,synthetic_ecommerce
+Product_676,Clothing Product 676,Clothing,2.14,0.1559,97,11867,Asia|Europe|North America,synthetic_ecommerce
+Product_677,Clothing Product 677,Clothing,2.55,0.1494,103,12938,Asia|Europe|North America,synthetic_ecommerce
+Product_678,Books Product 678,Books,7.8,0.1485,107,13066,Asia|Europe|North America,synthetic_ecommerce
+Product_679,Books Product 679,Books,3.54,0.1472,89,10716,Asia|Europe|North America,synthetic_ecommerce
+Product_68,Home Appliances Product 68,Home Appliances,8.5,0.1512,104,12555,Asia|Europe|North America,synthetic_ecommerce
+Product_680,Home Appliances Product 680,Home Appliances,6.03,0.1616,117,14995,Asia|Europe|North America,synthetic_ecommerce
+Product_681,Home Appliances Product 681,Home Appliances,7.8,0.1477,88,11150,Asia|Europe|North America,synthetic_ecommerce
+Product_682,Home Appliances Product 682,Home Appliances,8.09,0.1653,94,12621,Asia|Europe|North America,synthetic_ecommerce
+Product_683,Clothing Product 683,Clothing,1.92,0.1566,79,9949,Asia|Europe|North America,synthetic_ecommerce
+Product_684,Clothing Product 684,Clothing,9.71,0.1556,99,12880,Asia|Europe|North America,synthetic_ecommerce
+Product_685,Home Appliances Product 685,Home Appliances,8.14,0.1626,100,12545,Asia|Europe|North America,synthetic_ecommerce
+Product_686,Home Appliances Product 686,Home Appliances,10.76,0.1258,113,13338,Asia|Europe|North America,synthetic_ecommerce
+Product_687,Electronics Product 687,Electronics,5.76,0.161,111,15380,Asia|Europe|North America,synthetic_ecommerce
+Product_688,Clothing Product 688,Clothing,9.76,0.136,89,11771,Asia|Europe|North America,synthetic_ecommerce
+Product_689,Home Appliances Product 689,Home Appliances,0.27,0.141,86,10217,Asia|Europe|North America,synthetic_ecommerce
+Product_69,Toys Product 69,Toys,3.26,0.1449,103,13806,Asia|Europe|North America,synthetic_ecommerce
+Product_690,Clothing Product 690,Clothing,10.07,0.1309,112,14063,Asia|Europe|North America,synthetic_ecommerce
+Product_691,Electronics Product 691,Electronics,2.75,0.172,102,13611,Asia|Europe|North America,synthetic_ecommerce
+Product_692,Toys Product 692,Toys,0.94,0.1347,92,12358,Asia|Europe|North America,synthetic_ecommerce
+Product_693,Toys Product 693,Toys,6.36,0.1467,97,13190,Asia|Europe|North America,synthetic_ecommerce
+Product_694,Clothing Product 694,Clothing,6.69,0.1692,97,13099,Asia|Europe|North America,synthetic_ecommerce
+Product_695,Home Appliances Product 695,Home Appliances,7.82,0.1254,94,11888,Asia|Europe|North America,synthetic_ecommerce
+Product_696,Home Appliances Product 696,Home Appliances,8.37,0.1504,98,12237,Asia|Europe|North America,synthetic_ecommerce
+Product_697,Toys Product 697,Toys,8.79,0.1408,101,12702,Asia|Europe|North America,synthetic_ecommerce
+Product_698,Electronics Product 698,Electronics,2.99,0.1508,113,15499,Asia|Europe|North America,synthetic_ecommerce
+Product_699,Electronics Product 699,Electronics,7.46,0.1485,110,15104,Asia|Europe|North America,synthetic_ecommerce
+Product_7,Toys Product 7,Toys,3.15,0.1346,95,12409,Asia|Europe|North America,synthetic_ecommerce
+Product_70,Clothing Product 70,Clothing,7.89,0.1413,101,13116,Asia|Europe|North America,synthetic_ecommerce
+Product_700,Clothing Product 700,Clothing,6.43,0.1573,81,10623,Asia|Europe|North America,synthetic_ecommerce
+Product_701,Books Product 701,Books,4.25,0.1561,108,12487,Asia|Europe|North America,synthetic_ecommerce
+Product_702,Home Appliances Product 702,Home Appliances,7.44,0.1591,109,12518,Asia|Europe|North America,synthetic_ecommerce
+Product_703,Electronics Product 703,Electronics,7.7,0.1455,100,13962,Asia|Europe|North America,synthetic_ecommerce
+Product_704,Toys Product 704,Toys,1.81,0.1457,115,15444,Asia|Europe|North America,synthetic_ecommerce
+Product_705,Home Appliances Product 705,Home Appliances,3.29,0.1503,92,10759,Asia|Europe|North America,synthetic_ecommerce
+Product_706,Toys Product 706,Toys,3.08,0.141,105,14448,Asia|Europe|North America,synthetic_ecommerce
+Product_707,Clothing Product 707,Clothing,6.11,0.1558,103,13114,Asia|Europe|North America,synthetic_ecommerce
+Product_708,Electronics Product 708,Electronics,6.86,0.1605,97,12980,Asia|Europe|North America,synthetic_ecommerce
+Product_709,Electronics Product 709,Electronics,5.38,0.1452,102,13858,Asia|Europe|North America,synthetic_ecommerce
+Product_71,Books Product 71,Books,1.68,0.145,106,12065,Asia|Europe|North America,synthetic_ecommerce
+Product_710,Electronics Product 710,Electronics,2.3,0.1335,91,12361,Asia|Europe|North America,synthetic_ecommerce
+Product_711,Home Appliances Product 711,Home Appliances,7.7,0.1468,112,13306,Asia|Europe|North America,synthetic_ecommerce
+Product_712,Toys Product 712,Toys,1.3,0.1476,93,12760,Asia|Europe|North America,synthetic_ecommerce
+Product_713,Toys Product 713,Toys,4.78,0.1571,109,14498,Asia|Europe|North America,synthetic_ecommerce
+Product_714,Toys Product 714,Toys,6.34,0.1464,98,13019,Asia|Europe|North America,synthetic_ecommerce
+Product_715,Toys Product 715,Toys,2.47,0.1437,97,13092,Asia|Europe|North America,synthetic_ecommerce
+Product_716,Electronics Product 716,Electronics,1.72,0.165,109,14902,Asia|Europe|North America,synthetic_ecommerce
+Product_717,Home Appliances Product 717,Home Appliances,10.67,0.1376,87,10605,Asia|Europe|North America,synthetic_ecommerce
+Product_718,Home Appliances Product 718,Home Appliances,1.73,0.1511,96,12440,Asia|Europe|North America,synthetic_ecommerce
+Product_719,Books Product 719,Books,2.26,0.1351,117,13750,Asia|Europe|North America,synthetic_ecommerce
+Product_72,Electronics Product 72,Electronics,2.51,0.1403,116,16207,Asia|Europe|North America,synthetic_ecommerce
+Product_720,Clothing Product 720,Clothing,7.92,0.1552,98,13338,Asia|Europe|North America,synthetic_ecommerce
+Product_721,Toys Product 721,Toys,3.83,0.1428,105,14068,Asia|Europe|North America,synthetic_ecommerce
+Product_722,Books Product 722,Books,0.96,0.1466,106,11843,Asia|Europe|North America,synthetic_ecommerce
+Product_723,Clothing Product 723,Clothing,9.29,0.1453,91,11761,Asia|Europe|North America,synthetic_ecommerce
+Product_724,Electronics Product 724,Electronics,4.04,0.1422,87,12340,Asia|Europe|North America,synthetic_ecommerce
+Product_725,Toys Product 725,Toys,2.31,0.1541,105,14864,Asia|Europe|North America,synthetic_ecommerce
+Product_726,Clothing Product 726,Clothing,1.75,0.1344,93,11575,Asia|Europe|North America,synthetic_ecommerce
+Product_727,Home Appliances Product 727,Home Appliances,4.21,0.1461,102,12345,Asia|Europe|North America,synthetic_ecommerce
+Product_728,Toys Product 728,Toys,2.74,0.155,86,10859,Asia|Europe|North America,synthetic_ecommerce
+Product_729,Electronics Product 729,Electronics,7.76,0.1537,97,12804,Asia|Europe|North America,synthetic_ecommerce
+Product_73,Books Product 73,Books,2.55,0.1563,104,12455,Asia|Europe|North America,synthetic_ecommerce
+Product_730,Electronics Product 730,Electronics,0.41,0.1446,106,14679,Asia|Europe|North America,synthetic_ecommerce
+Product_731,Home Appliances Product 731,Home Appliances,1.23,0.133,81,10751,Asia|Europe|North America,synthetic_ecommerce
+Product_732,Books Product 732,Books,8.87,0.1573,107,12302,Asia|Europe|North America,synthetic_ecommerce
+Product_733,Electronics Product 733,Electronics,5.42,0.1455,93,12914,Asia|Europe|North America,synthetic_ecommerce
+Product_734,Clothing Product 734,Clothing,8.3,0.1489,84,10534,Asia|Europe|North America,synthetic_ecommerce
+Product_735,Clothing Product 735,Clothing,0.57,0.1449,105,14003,Asia|Europe|North America,synthetic_ecommerce
+Product_736,Home Appliances Product 736,Home Appliances,6.09,0.1381,90,10514,Asia|Europe|North America,synthetic_ecommerce
+Product_737,Clothing Product 737,Clothing,1.88,0.156,113,14539,Asia|Europe|North America,synthetic_ecommerce
+Product_738,Toys Product 738,Toys,9.0,0.1522,93,12082,Asia|Europe|North America,synthetic_ecommerce
+Product_739,Toys Product 739,Toys,4.02,0.1421,99,13518,Asia|Europe|North America,synthetic_ecommerce
+Product_74,Home Appliances Product 74,Home Appliances,1.71,0.1576,109,13175,Asia|Europe|North America,synthetic_ecommerce
+Product_740,Toys Product 740,Toys,6.27,0.1511,107,13726,Asia|Europe|North America,synthetic_ecommerce
+Product_741,Toys Product 741,Toys,3.42,0.1535,124,16592,Asia|Europe|North America,synthetic_ecommerce
+Product_742,Toys Product 742,Toys,8.45,0.1535,92,12156,Asia|Europe|North America,synthetic_ecommerce
+Product_743,Home Appliances Product 743,Home Appliances,3.84,0.1469,98,12804,Asia|Europe|North America,synthetic_ecommerce
+Product_744,Clothing Product 744,Clothing,3.76,0.1561,96,13054,Asia|Europe|North America,synthetic_ecommerce
+Product_745,Electronics Product 745,Electronics,5.66,0.1533,105,14974,Asia|Europe|North America,synthetic_ecommerce
+Product_746,Toys Product 746,Toys,1.99,0.1477,132,17658,Asia|Europe|North America,synthetic_ecommerce
+Product_747,Toys Product 747,Toys,6.01,0.1552,116,15665,Asia|Europe|North America,synthetic_ecommerce
+Product_748,Electronics Product 748,Electronics,6.07,0.1658,104,14150,Asia|Europe|North America,synthetic_ecommerce
+Product_749,Electronics Product 749,Electronics,3.96,0.147,113,15508,Asia|Europe|North America,synthetic_ecommerce
+Product_75,Clothing Product 75,Clothing,3.76,0.1456,99,13353,Asia|Europe|North America,synthetic_ecommerce
+Product_750,Books Product 750,Books,5.31,0.1508,99,11469,Asia|Europe|North America,synthetic_ecommerce
+Product_751,Electronics Product 751,Electronics,2.21,0.1416,89,11874,Asia|Europe|North America,synthetic_ecommerce
+Product_752,Home Appliances Product 752,Home Appliances,7.58,0.1484,116,13612,Asia|Europe|North America,synthetic_ecommerce
+Product_753,Electronics Product 753,Electronics,7.03,0.1481,108,15940,Asia|Europe|North America,synthetic_ecommerce
+Product_754,Books Product 754,Books,2.09,0.1494,108,12657,Asia|Europe|North America,synthetic_ecommerce
+Product_755,Clothing Product 755,Clothing,3.28,0.1516,108,14678,Asia|Europe|North America,synthetic_ecommerce
+Product_756,Clothing Product 756,Clothing,6.34,0.1516,92,12213,Asia|Europe|North America,synthetic_ecommerce
+Product_757,Electronics Product 757,Electronics,6.44,0.1422,96,12739,Asia|Europe|North America,synthetic_ecommerce
+Product_758,Electronics Product 758,Electronics,8.17,0.1573,94,12763,Asia|Europe|North America,synthetic_ecommerce
+Product_759,Clothing Product 759,Clothing,6.02,0.1486,93,11436,Asia|Europe|North America,synthetic_ecommerce
+Product_76,Home Appliances Product 76,Home Appliances,6.69,0.1518,107,12878,Asia|Europe|North America,synthetic_ecommerce
+Product_760,Home Appliances Product 760,Home Appliances,7.51,0.1564,83,10090,Asia|Europe|North America,synthetic_ecommerce
+Product_761,Home Appliances Product 761,Home Appliances,8.1,0.1604,95,10703,Asia|Europe|North America,synthetic_ecommerce
+Product_762,Home Appliances Product 762,Home Appliances,5.56,0.149,106,12493,Asia|Europe|North America,synthetic_ecommerce
+Product_763,Books Product 763,Books,10.44,0.1586,111,13125,Asia|Europe|North America,synthetic_ecommerce
+Product_764,Home Appliances Product 764,Home Appliances,0.32,0.1577,102,12854,Asia|Europe|North America,synthetic_ecommerce
+Product_765,Clothing Product 765,Clothing,2.63,0.1467,90,11444,Asia|Europe|North America,synthetic_ecommerce
+Product_766,Home Appliances Product 766,Home Appliances,1.6,0.1488,108,13102,Asia|Europe|North America,synthetic_ecommerce
+Product_767,Toys Product 767,Toys,7.83,0.1617,92,11548,Asia|Europe|North America,synthetic_ecommerce
+Product_768,Clothing Product 768,Clothing,1.05,0.1542,91,11130,Asia|Europe|North America,synthetic_ecommerce
+Product_769,Home Appliances Product 769,Home Appliances,0.72,0.1438,96,11454,Asia|Europe|North America,synthetic_ecommerce
+Product_77,Clothing Product 77,Clothing,11.02,0.1479,112,13610,Asia|Europe|North America,synthetic_ecommerce
+Product_770,Home Appliances Product 770,Home Appliances,0.81,0.1521,106,12405,Asia|Europe|North America,synthetic_ecommerce
+Product_771,Toys Product 771,Toys,5.39,0.1335,96,12398,Asia|Europe|North America,synthetic_ecommerce
+Product_772,Electronics Product 772,Electronics,2.04,0.1598,99,13671,Asia|Europe|North America,synthetic_ecommerce
+Product_773,Clothing Product 773,Clothing,2.74,0.1604,121,14963,Asia|Europe|North America,synthetic_ecommerce
+Product_774,Electronics Product 774,Electronics,1.33,0.161,111,14198,Asia|Europe|North America,synthetic_ecommerce
+Product_775,Books Product 775,Books,4.05,0.1596,90,10296,Asia|Europe|North America,synthetic_ecommerce
+Product_776,Clothing Product 776,Clothing,9.22,0.133,96,12205,Asia|Europe|North America,synthetic_ecommerce
+Product_777,Electronics Product 777,Electronics,2.51,0.1438,105,15527,Asia|Europe|North America,synthetic_ecommerce
+Product_778,Books Product 778,Books,0.25,0.1559,99,11120,Asia|Europe|North America,synthetic_ecommerce
+Product_779,Clothing Product 779,Clothing,3.32,0.1521,100,12853,Asia|Europe|North America,synthetic_ecommerce
+Product_78,Clothing Product 78,Clothing,7.2,0.1486,104,14391,Asia|Europe|North America,synthetic_ecommerce
+Product_780,Books Product 780,Books,2.33,0.1612,88,10933,Asia|Europe|North America,synthetic_ecommerce
+Product_781,Clothing Product 781,Clothing,5.3,0.1527,103,13242,Asia|Europe|North America,synthetic_ecommerce
+Product_782,Toys Product 782,Toys,0.6,0.1468,95,14061,Asia|Europe|North America,synthetic_ecommerce
+Product_783,Electronics Product 783,Electronics,3.12,0.1522,102,13969,Asia|Europe|North America,synthetic_ecommerce
+Product_784,Toys Product 784,Toys,7.52,0.1497,124,16241,Asia|Europe|North America,synthetic_ecommerce
+Product_785,Toys Product 785,Toys,4.93,0.1562,112,14844,Asia|Europe|North America,synthetic_ecommerce
+Product_786,Toys Product 786,Toys,7.37,0.1407,94,12553,Asia|Europe|North America,synthetic_ecommerce
+Product_787,Books Product 787,Books,10.58,0.14,100,11374,Asia|Europe|North America,synthetic_ecommerce
+Product_788,Books Product 788,Books,10.1,0.1723,82,9611,Asia|Europe|North America,synthetic_ecommerce
+Product_789,Electronics Product 789,Electronics,3.66,0.1461,114,16755,Asia|Europe|North America,synthetic_ecommerce
+Product_79,Electronics Product 79,Electronics,9.37,0.1573,94,12221,Asia|Europe|North America,synthetic_ecommerce
+Product_790,Electronics Product 790,Electronics,1.77,0.1511,95,13233,Asia|Europe|North America,synthetic_ecommerce
+Product_791,Electronics Product 791,Electronics,4.23,0.1456,102,13992,Asia|Europe|North America,synthetic_ecommerce
+Product_792,Books Product 792,Books,0.48,0.1609,116,13040,Asia|Europe|North America,synthetic_ecommerce
+Product_793,Books Product 793,Books,6.2,0.1374,105,13401,Asia|Europe|North America,synthetic_ecommerce
+Product_794,Home Appliances Product 794,Home Appliances,9.94,0.1423,92,11010,Asia|Europe|North America,synthetic_ecommerce
+Product_795,Books Product 795,Books,6.06,0.1518,90,10713,Asia|Europe|North America,synthetic_ecommerce
+Product_796,Home Appliances Product 796,Home Appliances,0.91,0.149,115,13911,Asia|Europe|North America,synthetic_ecommerce
+Product_797,Toys Product 797,Toys,2.69,0.149,102,13306,Asia|Europe|North America,synthetic_ecommerce
+Product_798,Books Product 798,Books,6.89,0.1574,90,11021,Asia|Europe|North America,synthetic_ecommerce
+Product_799,Books Product 799,Books,7.5,0.1669,99,11484,Asia|Europe|North America,synthetic_ecommerce
+Product_8,Electronics Product 8,Electronics,5.12,0.1549,99,14001,Asia|Europe|North America,synthetic_ecommerce
+Product_80,Clothing Product 80,Clothing,5.39,0.146,112,14951,Asia|Europe|North America,synthetic_ecommerce
+Product_800,Electronics Product 800,Electronics,0.45,0.1371,99,13770,Asia|Europe|North America,synthetic_ecommerce
+Product_801,Toys Product 801,Toys,4.75,0.1503,99,13091,Asia|Europe|North America,synthetic_ecommerce
+Product_802,Toys Product 802,Toys,1.31,0.1598,94,12533,Asia|Europe|North America,synthetic_ecommerce
+Product_803,Electronics Product 803,Electronics,3.89,0.1583,92,12376,Asia|Europe|North America,synthetic_ecommerce
+Product_804,Clothing Product 804,Clothing,0.5,0.1463,88,11921,Asia|Europe|North America,synthetic_ecommerce
+Product_805,Books Product 805,Books,6.72,0.1482,88,11365,Asia|Europe|North America,synthetic_ecommerce
+Product_806,Toys Product 806,Toys,6.11,0.1617,103,14568,Asia|Europe|North America,synthetic_ecommerce
+Product_807,Toys Product 807,Toys,8.61,0.1653,89,12826,Asia|Europe|North America,synthetic_ecommerce
+Product_808,Electronics Product 808,Electronics,8.68,0.1397,90,12190,Asia|Europe|North America,synthetic_ecommerce
+Product_809,Books Product 809,Books,8.99,0.1337,114,12773,Asia|Europe|North America,synthetic_ecommerce
+Product_81,Books Product 81,Books,6.07,0.1628,94,11415,Asia|Europe|North America,synthetic_ecommerce
+Product_810,Electronics Product 810,Electronics,3.99,0.1477,105,14417,Asia|Europe|North America,synthetic_ecommerce
+Product_811,Clothing Product 811,Clothing,8.44,0.1567,94,11889,Asia|Europe|North America,synthetic_ecommerce
+Product_812,Electronics Product 812,Electronics,5.74,0.1571,82,11436,Asia|Europe|North America,synthetic_ecommerce
+Product_813,Books Product 813,Books,0.47,0.1659,95,11273,Asia|Europe|North America,synthetic_ecommerce
+Product_814,Clothing Product 814,Clothing,6.86,0.1498,83,10467,Asia|Europe|North America,synthetic_ecommerce
+Product_815,Clothing Product 815,Clothing,4.2,0.1475,104,13531,Asia|Europe|North America,synthetic_ecommerce
+Product_816,Books Product 816,Books,2.25,0.1579,105,12685,Asia|Europe|North America,synthetic_ecommerce
+Product_817,Electronics Product 817,Electronics,3.63,0.1494,111,15534,Asia|Europe|North America,synthetic_ecommerce
+Product_818,Clothing Product 818,Clothing,6.12,0.1339,106,12925,Asia|Europe|North America,synthetic_ecommerce
+Product_819,Electronics Product 819,Electronics,3.82,0.1554,101,14133,Asia|Europe|North America,synthetic_ecommerce
+Product_82,Clothing Product 82,Clothing,0.39,0.1521,97,11927,Asia|Europe|North America,synthetic_ecommerce
+Product_820,Books Product 820,Books,7.12,0.1402,92,11162,Asia|Europe|North America,synthetic_ecommerce
+Product_821,Clothing Product 821,Clothing,5.06,0.1618,101,13224,Asia|Europe|North America,synthetic_ecommerce
+Product_822,Electronics Product 822,Electronics,4.94,0.1517,107,15404,Asia|Europe|North America,synthetic_ecommerce
+Product_823,Clothing Product 823,Clothing,2.43,0.1443,113,14631,Asia|Europe|North America,synthetic_ecommerce
+Product_824,Books Product 824,Books,9.17,0.1527,105,12196,Asia|Europe|North America,synthetic_ecommerce
+Product_825,Books Product 825,Books,9.03,0.1404,94,10913,Asia|Europe|North America,synthetic_ecommerce
+Product_826,Home Appliances Product 826,Home Appliances,6.22,0.1393,101,11855,Asia|Europe|North America,synthetic_ecommerce
+Product_827,Home Appliances Product 827,Home Appliances,8.99,0.1448,91,10698,Asia|Europe|North America,synthetic_ecommerce
+Product_828,Books Product 828,Books,10.51,0.1525,84,9605,Asia|Europe|North America,synthetic_ecommerce
+Product_829,Books Product 829,Books,6.71,0.1568,94,11210,Asia|Europe|North America,synthetic_ecommerce
+Product_83,Home Appliances Product 83,Home Appliances,2.42,0.135,107,13304,Asia|Europe|North America,synthetic_ecommerce
+Product_830,Books Product 830,Books,7.27,0.1443,93,10828,Asia|Europe|North America,synthetic_ecommerce
+Product_831,Electronics Product 831,Electronics,5.27,0.1509,92,12479,Asia|Europe|North America,synthetic_ecommerce
+Product_832,Books Product 832,Books,5.6,0.1532,110,12908,Asia|Europe|North America,synthetic_ecommerce
+Product_833,Clothing Product 833,Clothing,1.96,0.1483,96,11996,Asia|Europe|North America,synthetic_ecommerce
+Product_834,Clothing Product 834,Clothing,6.51,0.1497,93,11903,Asia|Europe|North America,synthetic_ecommerce
+Product_835,Electronics Product 835,Electronics,6.49,0.1448,104,14938,Asia|Europe|North America,synthetic_ecommerce
+Product_836,Clothing Product 836,Clothing,5.0,0.1436,98,12227,Asia|Europe|North America,synthetic_ecommerce
+Product_837,Home Appliances Product 837,Home Appliances,8.46,0.1353,93,11430,Asia|Europe|North America,synthetic_ecommerce
+Product_838,Electronics Product 838,Electronics,8.0,0.1581,80,10922,Asia|Europe|North America,synthetic_ecommerce
+Product_839,Electronics Product 839,Electronics,7.83,0.156,87,12199,Asia|Europe|North America,synthetic_ecommerce
+Product_84,Books Product 84,Books,9.93,0.1431,108,11859,Asia|Europe|North America,synthetic_ecommerce
+Product_840,Clothing Product 840,Clothing,3.75,0.1552,96,12155,Asia|Europe|North America,synthetic_ecommerce
+Product_841,Clothing Product 841,Clothing,3.36,0.1663,105,13837,Asia|Europe|North America,synthetic_ecommerce
+Product_842,Clothing Product 842,Clothing,0.86,0.1636,99,13346,Asia|Europe|North America,synthetic_ecommerce
+Product_843,Clothing Product 843,Clothing,1.19,0.143,120,16093,Asia|Europe|North America,synthetic_ecommerce
+Product_844,Electronics Product 844,Electronics,9.11,0.1536,84,11900,Asia|Europe|North America,synthetic_ecommerce
+Product_845,Books Product 845,Books,2.02,0.1439,132,15152,Asia|Europe|North America,synthetic_ecommerce
+Product_846,Toys Product 846,Toys,3.12,0.1415,102,13620,Asia|Europe|North America,synthetic_ecommerce
+Product_847,Electronics Product 847,Electronics,7.44,0.1513,105,14802,Asia|Europe|North America,synthetic_ecommerce
+Product_848,Home Appliances Product 848,Home Appliances,3.01,0.1497,88,10525,Asia|Europe|North America,synthetic_ecommerce
+Product_849,Toys Product 849,Toys,3.01,0.1489,95,13028,Asia|Europe|North America,synthetic_ecommerce
+Product_85,Books Product 85,Books,7.35,0.1488,108,12919,Asia|Europe|North America,synthetic_ecommerce
+Product_850,Home Appliances Product 850,Home Appliances,6.67,0.1415,129,15321,Asia|Europe|North America,synthetic_ecommerce
+Product_851,Toys Product 851,Toys,3.43,0.1413,96,12729,Asia|Europe|North America,synthetic_ecommerce
+Product_852,Clothing Product 852,Clothing,5.97,0.1539,102,12853,Asia|Europe|North America,synthetic_ecommerce
+Product_853,Home Appliances Product 853,Home Appliances,2.82,0.1459,103,12297,Asia|Europe|North America,synthetic_ecommerce
+Product_854,Home Appliances Product 854,Home Appliances,5.73,0.1582,109,13571,Asia|Europe|North America,synthetic_ecommerce
+Product_855,Toys Product 855,Toys,2.71,0.1443,106,13575,Asia|Europe|North America,synthetic_ecommerce
+Product_856,Electronics Product 856,Electronics,8.01,0.1547,87,11881,Asia|Europe|North America,synthetic_ecommerce
+Product_857,Electronics Product 857,Electronics,1.84,0.1337,107,14441,Asia|Europe|North America,synthetic_ecommerce
+Product_858,Toys Product 858,Toys,7.94,0.1612,78,10168,Asia|Europe|North America,synthetic_ecommerce
+Product_859,Books Product 859,Books,0.6,0.161,87,10453,Asia|Europe|North America,synthetic_ecommerce
+Product_86,Electronics Product 86,Electronics,3.02,0.141,106,15136,Asia|Europe|North America,synthetic_ecommerce
+Product_860,Books Product 860,Books,7.55,0.1441,90,10813,Asia|Europe|North America,synthetic_ecommerce
+Product_861,Home Appliances Product 861,Home Appliances,5.58,0.1588,108,13116,Asia|Europe|North America,synthetic_ecommerce
+Product_862,Electronics Product 862,Electronics,2.2,0.1441,93,13149,Asia|Europe|North America,synthetic_ecommerce
+Product_863,Home Appliances Product 863,Home Appliances,2.17,0.145,105,14286,Asia|Europe|North America,synthetic_ecommerce
+Product_864,Clothing Product 864,Clothing,1.68,0.1434,100,12452,Asia|Europe|North America,synthetic_ecommerce
+Product_865,Electronics Product 865,Electronics,4.25,0.15,110,14968,Asia|Europe|North America,synthetic_ecommerce
+Product_866,Home Appliances Product 866,Home Appliances,4.3,0.144,84,10690,Asia|Europe|North America,synthetic_ecommerce
+Product_867,Toys Product 867,Toys,4.36,0.1542,89,11277,Asia|Europe|North America,synthetic_ecommerce
+Product_868,Books Product 868,Books,4.0,0.1494,105,11295,Asia|Europe|North America,synthetic_ecommerce
+Product_869,Books Product 869,Books,6.84,0.1448,91,10490,Asia|Europe|North America,synthetic_ecommerce
+Product_87,Electronics Product 87,Electronics,3.9,0.1482,94,12960,Asia|Europe|North America,synthetic_ecommerce
+Product_870,Clothing Product 870,Clothing,10.33,0.1491,110,14480,Asia|Europe|North America,synthetic_ecommerce
+Product_871,Clothing Product 871,Clothing,1.42,0.1536,99,12570,Asia|Europe|North America,synthetic_ecommerce
+Product_872,Electronics Product 872,Electronics,8.45,0.1619,109,15314,Asia|Europe|North America,synthetic_ecommerce
+Product_873,Books Product 873,Books,6.33,0.1419,124,14527,Asia|Europe|North America,synthetic_ecommerce
+Product_874,Clothing Product 874,Clothing,7.26,0.1635,102,12812,Asia|Europe|North America,synthetic_ecommerce
+Product_875,Home Appliances Product 875,Home Appliances,4.01,0.1648,119,13898,Asia|Europe|North America,synthetic_ecommerce
+Product_876,Toys Product 876,Toys,1.41,0.1403,101,12504,Asia|Europe|North America,synthetic_ecommerce
+Product_877,Books Product 877,Books,1.15,0.153,82,9566,Asia|Europe|North America,synthetic_ecommerce
+Product_878,Books Product 878,Books,3.19,0.1287,99,11344,Asia|Europe|North America,synthetic_ecommerce
+Product_879,Home Appliances Product 879,Home Appliances,3.55,0.1484,105,12846,Asia|Europe|North America,synthetic_ecommerce
+Product_88,Home Appliances Product 88,Home Appliances,1.41,0.1521,76,8727,Asia|Europe|North America,synthetic_ecommerce
+Product_880,Clothing Product 880,Clothing,2.35,0.1463,102,13178,Asia|Europe|North America,synthetic_ecommerce
+Product_881,Home Appliances Product 881,Home Appliances,7.3,0.1393,100,12115,Asia|Europe|North America,synthetic_ecommerce
+Product_882,Electronics Product 882,Electronics,8.21,0.1454,91,13558,Asia|Europe|North America,synthetic_ecommerce
+Product_883,Home Appliances Product 883,Home Appliances,7.93,0.1569,95,11393,Asia|Europe|North America,synthetic_ecommerce
+Product_884,Books Product 884,Books,3.6,0.1403,117,13527,Asia|Europe|North America,synthetic_ecommerce
+Product_885,Toys Product 885,Toys,6.87,0.1344,85,11851,Asia|Europe|North America,synthetic_ecommerce
+Product_886,Electronics Product 886,Electronics,1.74,0.1554,106,13996,Asia|Europe|North America,synthetic_ecommerce
+Product_887,Clothing Product 887,Clothing,1.68,0.1469,113,14460,Asia|Europe|North America,synthetic_ecommerce
+Product_888,Home Appliances Product 888,Home Appliances,11.0,0.1531,87,10248,Asia|Europe|North America,synthetic_ecommerce
+Product_889,Home Appliances Product 889,Home Appliances,0.22,0.1407,116,13984,Asia|Europe|North America,synthetic_ecommerce
+Product_89,Books Product 89,Books,3.28,0.1623,109,13068,Asia|Europe|North America,synthetic_ecommerce
+Product_890,Electronics Product 890,Electronics,2.4,0.1558,113,16372,Asia|Europe|North America,synthetic_ecommerce
+Product_891,Home Appliances Product 891,Home Appliances,6.09,0.1528,101,12245,Asia|Europe|North America,synthetic_ecommerce
+Product_892,Clothing Product 892,Clothing,4.4,0.1485,106,13422,Asia|Europe|North America,synthetic_ecommerce
+Product_893,Electronics Product 893,Electronics,3.06,0.1421,114,16339,Asia|Europe|North America,synthetic_ecommerce
+Product_894,Toys Product 894,Toys,3.77,0.1658,84,11685,Asia|Europe|North America,synthetic_ecommerce
+Product_895,Home Appliances Product 895,Home Appliances,10.0,0.1535,97,11878,Asia|Europe|North America,synthetic_ecommerce
+Product_896,Toys Product 896,Toys,3.19,0.1665,95,11199,Asia|Europe|North America,synthetic_ecommerce
+Product_897,Clothing Product 897,Clothing,10.09,0.1599,119,14821,Asia|Europe|North America,synthetic_ecommerce
+Product_898,Clothing Product 898,Clothing,5.03,0.1482,99,12416,Asia|Europe|North America,synthetic_ecommerce
+Product_899,Toys Product 899,Toys,4.11,0.1578,97,12707,Asia|Europe|North America,synthetic_ecommerce
+Product_9,Home Appliances Product 9,Home Appliances,1.73,0.1418,102,12394,Asia|Europe|North America,synthetic_ecommerce
+Product_90,Home Appliances Product 90,Home Appliances,2.7,0.1527,95,11656,Asia|Europe|North America,synthetic_ecommerce
+Product_900,Toys Product 900,Toys,5.18,0.1615,97,13580,Asia|Europe|North America,synthetic_ecommerce
+Product_901,Books Product 901,Books,7.6,0.1352,102,11826,Asia|Europe|North America,synthetic_ecommerce
+Product_902,Toys Product 902,Toys,6.37,0.1532,94,12197,Asia|Europe|North America,synthetic_ecommerce
+Product_903,Home Appliances Product 903,Home Appliances,8.79,0.1585,101,12787,Asia|Europe|North America,synthetic_ecommerce
+Product_904,Home Appliances Product 904,Home Appliances,7.4,0.1511,89,10155,Asia|Europe|North America,synthetic_ecommerce
+Product_905,Home Appliances Product 905,Home Appliances,6.36,0.1349,101,11816,Asia|Europe|North America,synthetic_ecommerce
+Product_906,Toys Product 906,Toys,4.11,0.1549,119,16156,Asia|Europe|North America,synthetic_ecommerce
+Product_907,Home Appliances Product 907,Home Appliances,11.5,0.1372,88,10147,Asia|Europe|North America,synthetic_ecommerce
+Product_908,Clothing Product 908,Clothing,2.7,0.1443,102,14086,Asia|Europe|North America,synthetic_ecommerce
+Product_909,Electronics Product 909,Electronics,0.28,0.1491,101,14290,Asia|Europe|North America,synthetic_ecommerce
+Product_91,Books Product 91,Books,7.57,0.1455,109,12561,Asia|Europe|North America,synthetic_ecommerce
+Product_910,Toys Product 910,Toys,1.83,0.146,99,13571,Asia|Europe|North America,synthetic_ecommerce
+Product_911,Electronics Product 911,Electronics,6.03,0.157,92,12238,Asia|Europe|North America,synthetic_ecommerce
+Product_912,Home Appliances Product 912,Home Appliances,0.85,0.1601,104,13282,Asia|Europe|North America,synthetic_ecommerce
+Product_913,Electronics Product 913,Electronics,2.15,0.1534,119,16680,Asia|Europe|North America,synthetic_ecommerce
+Product_914,Clothing Product 914,Clothing,0.95,0.1659,87,10622,Asia|Europe|North America,synthetic_ecommerce
+Product_915,Clothing Product 915,Clothing,7.37,0.1557,95,11709,Asia|Europe|North America,synthetic_ecommerce
+Product_916,Toys Product 916,Toys,5.2,0.1478,106,15622,Asia|Europe|North America,synthetic_ecommerce
+Product_917,Home Appliances Product 917,Home Appliances,8.12,0.1342,104,11958,Asia|Europe|North America,synthetic_ecommerce
+Product_918,Clothing Product 918,Clothing,7.34,0.1368,107,13010,Asia|Europe|North America,synthetic_ecommerce
+Product_919,Books Product 919,Books,0.62,0.1495,104,12408,Asia|Europe|North America,synthetic_ecommerce
+Product_92,Clothing Product 92,Clothing,8.9,0.1651,96,11961,Asia|Europe|North America,synthetic_ecommerce
+Product_920,Toys Product 920,Toys,6.56,0.1527,91,12526,Asia|Europe|North America,synthetic_ecommerce
+Product_921,Books Product 921,Books,4.02,0.1589,94,10975,Asia|Europe|North America,synthetic_ecommerce
+Product_922,Electronics Product 922,Electronics,9.17,0.1553,100,12931,Asia|Europe|North America,synthetic_ecommerce
+Product_923,Books Product 923,Books,10.31,0.1349,85,9683,Asia|Europe|North America,synthetic_ecommerce
+Product_924,Toys Product 924,Toys,5.89,0.1361,93,12000,Asia|Europe|North America,synthetic_ecommerce
+Product_925,Clothing Product 925,Clothing,3.39,0.1395,78,10540,Asia|Europe|North America,synthetic_ecommerce
+Product_926,Books Product 926,Books,5.19,0.1515,92,10976,Asia|Europe|North America,synthetic_ecommerce
+Product_927,Books Product 927,Books,5.09,0.1518,87,10069,Asia|Europe|North America,synthetic_ecommerce
+Product_928,Clothing Product 928,Clothing,2.91,0.1442,113,13996,Asia|Europe|North America,synthetic_ecommerce
+Product_929,Clothing Product 929,Clothing,6.9,0.1487,98,11810,Asia|Europe|North America,synthetic_ecommerce
+Product_93,Clothing Product 93,Clothing,5.43,0.1472,106,13094,Asia|Europe|North America,synthetic_ecommerce
+Product_930,Books Product 930,Books,4.05,0.1506,88,10527,Asia|Europe|North America,synthetic_ecommerce
+Product_931,Clothing Product 931,Clothing,5.86,0.1399,102,13377,Asia|Europe|North America,synthetic_ecommerce
+Product_932,Books Product 932,Books,10.02,0.1569,94,11836,Asia|Europe|North America,synthetic_ecommerce
+Product_933,Books Product 933,Books,6.2,0.1542,107,12271,Asia|Europe|North America,synthetic_ecommerce
+Product_934,Electronics Product 934,Electronics,0.32,0.1504,97,14392,Asia|Europe|North America,synthetic_ecommerce
+Product_935,Clothing Product 935,Clothing,2.17,0.1236,91,11392,Asia|Europe|North America,synthetic_ecommerce
+Product_936,Toys Product 936,Toys,3.09,0.1598,102,12965,Asia|Europe|North America,synthetic_ecommerce
+Product_937,Clothing Product 937,Clothing,8.6,0.1566,89,11056,Asia|Europe|North America,synthetic_ecommerce
+Product_938,Toys Product 938,Toys,4.56,0.1517,94,11647,Asia|Europe|North America,synthetic_ecommerce
+Product_939,Books Product 939,Books,2.14,0.1532,133,15873,Asia|Europe|North America,synthetic_ecommerce
+Product_94,Home Appliances Product 94,Home Appliances,7.51,0.1401,103,13042,Asia|Europe|North America,synthetic_ecommerce
+Product_940,Home Appliances Product 940,Home Appliances,6.46,0.157,105,12915,Asia|Europe|North America,synthetic_ecommerce
+Product_941,Books Product 941,Books,1.54,0.1542,107,12442,Asia|Europe|North America,synthetic_ecommerce
+Product_942,Clothing Product 942,Clothing,2.83,0.1554,109,14256,Asia|Europe|North America,synthetic_ecommerce
+Product_943,Toys Product 943,Toys,8.76,0.1503,100,13613,Asia|Europe|North America,synthetic_ecommerce
+Product_944,Electronics Product 944,Electronics,5.42,0.1536,97,13748,Asia|Europe|North America,synthetic_ecommerce
+Product_945,Home Appliances Product 945,Home Appliances,9.76,0.1469,96,11387,Asia|Europe|North America,synthetic_ecommerce
+Product_946,Toys Product 946,Toys,7.44,0.1629,105,13101,Asia|Europe|North America,synthetic_ecommerce
+Product_947,Electronics Product 947,Electronics,5.62,0.1348,98,13778,Asia|Europe|North America,synthetic_ecommerce
+Product_948,Electronics Product 948,Electronics,1.5,0.1559,74,10352,Asia|Europe|North America,synthetic_ecommerce
+Product_949,Books Product 949,Books,6.79,0.1559,102,11533,Asia|Europe|North America,synthetic_ecommerce
+Product_95,Home Appliances Product 95,Home Appliances,6.39,0.1619,91,11219,Asia|Europe|North America,synthetic_ecommerce
+Product_950,Clothing Product 950,Clothing,3.72,0.1531,98,12747,Asia|Europe|North America,synthetic_ecommerce
+Product_951,Books Product 951,Books,9.49,0.1524,105,12523,Asia|Europe|North America,synthetic_ecommerce
+Product_952,Toys Product 952,Toys,8.28,0.143,105,13614,Asia|Europe|North America,synthetic_ecommerce
+Product_953,Electronics Product 953,Electronics,0.28,0.1603,106,14898,Asia|Europe|North America,synthetic_ecommerce
+Product_954,Toys Product 954,Toys,2.06,0.1475,106,14396,Asia|Europe|North America,synthetic_ecommerce
+Product_955,Home Appliances Product 955,Home Appliances,6.8,0.1486,97,12033,Asia|Europe|North America,synthetic_ecommerce
+Product_956,Clothing Product 956,Clothing,7.1,0.1395,116,15181,Asia|Europe|North America,synthetic_ecommerce
+Product_957,Electronics Product 957,Electronics,0.8,0.1494,97,13357,Asia|Europe|North America,synthetic_ecommerce
+Product_958,Electronics Product 958,Electronics,2.3,0.151,87,12427,Asia|Europe|North America,synthetic_ecommerce
+Product_959,Clothing Product 959,Clothing,7.25,0.1541,120,14847,Asia|Europe|North America,synthetic_ecommerce
+Product_96,Books Product 96,Books,10.17,0.1435,98,11665,Asia|Europe|North America,synthetic_ecommerce
+Product_960,Toys Product 960,Toys,8.47,0.1455,108,13664,Asia|Europe|North America,synthetic_ecommerce
+Product_961,Toys Product 961,Toys,4.44,0.1693,100,13468,Asia|Europe|North America,synthetic_ecommerce
+Product_962,Electronics Product 962,Electronics,4.51,0.1484,98,14050,Asia|Europe|North America,synthetic_ecommerce
+Product_963,Electronics Product 963,Electronics,0.36,0.1443,86,12368,Asia|Europe|North America,synthetic_ecommerce
+Product_964,Clothing Product 964,Clothing,6.15,0.1546,96,12432,Asia|Europe|North America,synthetic_ecommerce
+Product_965,Clothing Product 965,Clothing,7.95,0.1496,104,14184,Asia|Europe|North America,synthetic_ecommerce
+Product_966,Clothing Product 966,Clothing,8.86,0.1564,117,14237,Asia|Europe|North America,synthetic_ecommerce
+Product_967,Books Product 967,Books,7.03,0.1481,88,10432,Asia|Europe|North America,synthetic_ecommerce
+Product_968,Electronics Product 968,Electronics,3.41,0.1564,95,13564,Asia|Europe|North America,synthetic_ecommerce
+Product_969,Electronics Product 969,Electronics,3.81,0.17,98,12985,Asia|Europe|North America,synthetic_ecommerce
+Product_97,Toys Product 97,Toys,1.41,0.1364,105,14491,Asia|Europe|North America,synthetic_ecommerce
+Product_970,Toys Product 970,Toys,0.56,0.1498,99,13043,Asia|Europe|North America,synthetic_ecommerce
+Product_971,Clothing Product 971,Clothing,0.33,0.1435,113,15435,Asia|Europe|North America,synthetic_ecommerce
+Product_972,Electronics Product 972,Electronics,2.75,0.1627,94,12367,Asia|Europe|North America,synthetic_ecommerce
+Product_973,Home Appliances Product 973,Home Appliances,0.35,0.1554,87,10284,Asia|Europe|North America,synthetic_ecommerce
+Product_974,Clothing Product 974,Clothing,8.9,0.1462,101,12296,Asia|Europe|North America,synthetic_ecommerce
+Product_975,Toys Product 975,Toys,0.35,0.1418,109,14053,Asia|Europe|North America,synthetic_ecommerce
+Product_976,Toys Product 976,Toys,6.06,0.1418,99,13546,Asia|Europe|North America,synthetic_ecommerce
+Product_977,Home Appliances Product 977,Home Appliances,0.24,0.1686,114,13745,Asia|Europe|North America,synthetic_ecommerce
+Product_978,Toys Product 978,Toys,2.71,0.1448,96,12618,Asia|Europe|North America,synthetic_ecommerce
+Product_979,Toys Product 979,Toys,7.37,0.1494,117,14326,Asia|Europe|North America,synthetic_ecommerce
+Product_98,Clothing Product 98,Clothing,8.16,0.1459,116,14840,Asia|Europe|North America,synthetic_ecommerce
+Product_980,Home Appliances Product 980,Home Appliances,5.04,0.1459,91,10866,Asia|Europe|North America,synthetic_ecommerce
+Product_981,Books Product 981,Books,3.12,0.1474,95,11948,Asia|Europe|North America,synthetic_ecommerce
+Product_982,Clothing Product 982,Clothing,9.05,0.1473,100,12834,Asia|Europe|North America,synthetic_ecommerce
+Product_983,Electronics Product 983,Electronics,9.82,0.1358,103,14286,Asia|Europe|North America,synthetic_ecommerce
+Product_984,Electronics Product 984,Electronics,6.09,0.1485,113,15712,Asia|Europe|North America,synthetic_ecommerce
+Product_985,Books Product 985,Books,7.88,0.1482,97,11185,Asia|Europe|North America,synthetic_ecommerce
+Product_986,Home Appliances Product 986,Home Appliances,0.94,0.1616,94,11474,Asia|Europe|North America,synthetic_ecommerce
+Product_987,Home Appliances Product 987,Home Appliances,1.56,0.1496,110,12918,Asia|Europe|North America,synthetic_ecommerce
+Product_988,Home Appliances Product 988,Home Appliances,7.82,0.1446,99,12077,Asia|Europe|North America,synthetic_ecommerce
+Product_989,Home Appliances Product 989,Home Appliances,6.05,0.1478,83,10310,Asia|Europe|North America,synthetic_ecommerce
+Product_99,Clothing Product 99,Clothing,3.87,0.1426,86,10698,Asia|Europe|North America,synthetic_ecommerce
+Product_990,Home Appliances Product 990,Home Appliances,7.61,0.1448,114,13845,Asia|Europe|North America,synthetic_ecommerce
+Product_991,Electronics Product 991,Electronics,3.1,0.1455,87,12402,Asia|Europe|North America,synthetic_ecommerce
+Product_992,Electronics Product 992,Electronics,6.62,0.1446,89,13098,Asia|Europe|North America,synthetic_ecommerce
+Product_993,Electronics Product 993,Electronics,4.84,0.1527,95,13642,Asia|Europe|North America,synthetic_ecommerce
+Product_994,Home Appliances Product 994,Home Appliances,4.6,0.1591,107,14069,Asia|Europe|North America,synthetic_ecommerce
+Product_995,Clothing Product 995,Clothing,3.41,0.1445,105,13272,Asia|Europe|North America,synthetic_ecommerce
+Product_996,Home Appliances Product 996,Home Appliances,6.69,0.1528,89,10937,Asia|Europe|North America,synthetic_ecommerce
+Product_997,Electronics Product 997,Electronics,2.35,0.1561,101,15027,Asia|Europe|North America,synthetic_ecommerce
+Product_998,Clothing Product 998,Clothing,9.58,0.15,116,15822,Asia|Europe|North America,synthetic_ecommerce
+Product_999,Books Product 999,Books,8.78,0.1681,101,11381,Asia|Europe|North America,synthetic_ecommerce

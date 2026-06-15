@@ -1,0 +1,110 @@
+{
+  "raw_directory": "C:\\DUT\\AI\\ShopMind RAG\\data\\raw",
+  "errors": [],
+  "warnings": [],
+  "files": {
+    "faq.csv": {
+      "exists": true,
+      "readable": true,
+      "rows": 90,
+      "columns": [
+        "faq_id",
+        "question",
+        "answer",
+        "category",
+        "sources",
+        "language"
+      ]
+    },
+    "products.csv": {
+      "exists": true,
+      "readable": true,
+      "rows": 1000,
+      "columns": [
+        "product_id",
+        "name",
+        "category",
+        "unit_price",
+        "avg_discount_rate",
+        "transaction_count",
+        "total_units_sold",
+        "regions",
+        "source"
+      ]
+    },
+    "orders_sample.csv": {
+      "exists": true,
+      "readable": true,
+      "rows": 5000,
+      "columns": [
+        "order_id",
+        "customer_id",
+        "order_date",
+        "product_id",
+        "quantity",
+        "discount_rate",
+        "revenue",
+        "region",
+        "source"
+      ]
+    },
+    "returns_sample.csv": {
+      "exists": true,
+      "readable": true,
+      "rows": 2000,
+      "columns": [
+        "order_id",
+        "product_id",
+        "customer_id",
+        "order_date",
+        "return_date",
+        "product_category",
+        "product_price",
+        "quantity",
+        "return_reason",
+        "return_status",
+        "days_to_return",
+        "payment_method",
+        "shipping_method",
+        "discount_applied",
+        "source"
+      ]
+    },
+    "shipping_sample.csv": {
+      "exists": true,
+      "readable": true,
+      "rows": 2000,
+      "columns": [
+        "shipment_id",
+        "warehouse_block",
+        "shipment_mode",
+        "customer_care_calls",
+        "customer_rating",
+        "product_cost",
+        "prior_purchases",
+        "product_importance",
+        "customer_gender",
+        "discount_offered",
+        "weight_grams",
+        "is_delayed",
+        "source"
+      ]
+    },
+    "policies": {
+      "exists": true,
+      "files": [
+        "account_policy.md",
+        "payment_policy.md",
+        "refund_policy.md",
+        "return_policy.md",
+        "shipping_policy.md",
+        "warranty_policy.md"
+      ]
+    }
+  },
+  "passed": true,
+  "summary": {
+    "error_count": 0,
+    "warning_count": 0
+  }
+}

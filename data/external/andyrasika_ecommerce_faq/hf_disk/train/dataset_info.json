@@ -1,0 +1,42 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "ecommerce_faq",
+  "dataset_size": 17924,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/Andyrasika/Ecommerce_FAQ@8dabce79d57aef555cfae3fe0740759eb84bc877/train.json": {
+      "num_bytes": 19504,
+      "checksum": null
+    }
+  },
+  "download_size": 19504,
+  "features": {
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 37428,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 17924,
+      "num_examples": 79,
+      "dataset_name": "ecommerce_faq"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

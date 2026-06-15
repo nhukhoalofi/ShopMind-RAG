@@ -36,10 +36,6 @@ EXTERNAL_DIR = PROJECT_ROOT / "data" / "external"
 
 
 HF_DATASETS = {
-    "qgyd_ecommerce_customer_service": {
-        "hf_id": "qgyd2021/e_commerce_customer_service",
-        "description": "Core e-commerce customer service knowledge base",
-    },
     "maktek_customer_support_faqs": {
         "hf_id": "MakTek/Customer_support_faqs_dataset",
         "description": "Customer support FAQ dataset",
@@ -48,12 +44,19 @@ HF_DATASETS = {
         "hf_id": "rjac/e-commerce-customer-support-qa",
         "description": "E-commerce customer support conversations and scenarios",
     },
-    "csconda_vietnamese_customer_support": {
-        "hf_id": "ura-hcmut/Vietnamese-Customer-Support-QA",
-        "description": "Vietnamese customer support QA dataset",
+    "harishvs_ecommerce_faq_qa": {
+        "hf_id": "harishvs/ecommerce-faq-llama2-QA",
+        "description": "E-commerce FAQ QA dataset",
+    },
+    "andyrasika_ecommerce_faq": {
+        "hf_id": "Andyrasika/Ecommerce_FAQ",
+        "description": "Small e-commerce FAQ chatbot dataset",
+    },
+    "kazkozdev_synth_customer_support": {
+        "hf_id": "KazKozDev/synth-customer-support-expanded-R",
+        "description": "Synthetic customer support interactions for e-commerce, shipping and delivery",
     },
 }
-
 
 KAGGLE_DATASETS = {
     "synthetic_ecommerce": {
@@ -98,7 +101,12 @@ def save_split_to_csv(dataset: Dataset, output_path: Path) -> None:
     df.to_csv(output_path, index=False, encoding="utf-8-sig")
 
 
-def save_hf_dataset(dataset_name: str, hf_id: str, output_dir: Path) -> None:
+def save_hf_dataset(
+    dataset_name: str,
+    hf_id: str,
+    output_dir: Path,
+    config_name: str | None = None,
+) -> None:
     """
     Download one Hugging Face dataset and save it in two formats:
     1. Hugging Face native format: hf_disk/
@@ -112,7 +120,7 @@ def save_hf_dataset(dataset_name: str, hf_id: str, output_dir: Path) -> None:
     print("=" * 80)
 
     try:
-        dataset = load_dataset(hf_id)
+        dataset = load_dataset(hf_id, config_name) if config_name else load_dataset(hf_id)
     except Exception as exc:
         print(f"[FAILED] Could not download {hf_id}")
         print(f"Reason: {exc}")
@@ -155,6 +163,7 @@ def save_hf_dataset(dataset_name: str, hf_id: str, output_dir: Path) -> None:
     metadata = {
         "dataset_name": dataset_name,
         "hf_id": hf_id,
+        "config_name": config_name,
         "source": "huggingface",
         "output_dir": str(output_dir),
     }
@@ -256,13 +265,23 @@ def download_kaggle_dataset(dataset_name: str, slug: str, output_dir: Path) -> N
 
 def download_huggingface_datasets() -> None:
     for folder_name, info in HF_DATASETS.items():
-        output_dir = EXTERNAL_DIR / folder_name
-        save_hf_dataset(
-            dataset_name=folder_name,
-            hf_id=info["hf_id"],
-            output_dir=output_dir,
-        )
+        hf_id = info["hf_id"]
+        configs = info.get("configs", [None])
 
+        for config_name in configs:
+            if config_name is None:
+                output_dir = EXTERNAL_DIR / folder_name
+                dataset_name = folder_name
+            else:
+                output_dir = EXTERNAL_DIR / folder_name / config_name
+                dataset_name = f"{folder_name}_{config_name}"
+
+            save_hf_dataset(
+                dataset_name=dataset_name,
+                hf_id=hf_id,
+                config_name=config_name,
+                output_dir=output_dir,
+            )
 
 def download_kaggle_datasets() -> None:
     for folder_name, info in KAGGLE_DATASETS.items():

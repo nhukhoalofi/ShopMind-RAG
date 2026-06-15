@@ -1,0 +1,69 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "synth-customer-support-expanded-r",
+  "dataset_size": 523638,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/KazKozDev/synth-customer-support-expanded-R@413b8dc403d8ae1f89168a56bdc9b47aca79233a/dataset.jsonl": {
+      "num_bytes": 627575,
+      "checksum": null
+    }
+  },
+  "download_size": 627575,
+  "features": {
+    "messages": {
+      "feature": {
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      },
+      "_type": "List"
+    },
+    "metadata": {
+      "generation_source": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "source": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "seed_example": {
+        "dtype": "bool",
+        "_type": "Value"
+      },
+      "support_style_sanitized": {
+        "dtype": "bool",
+        "_type": "Value"
+      },
+      "manual_style_reviewed": {
+        "dtype": "bool",
+        "_type": "Value"
+      }
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 1151213,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 523638,
+      "num_examples": 438,
+      "dataset_name": "synth-customer-support-expanded-r"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

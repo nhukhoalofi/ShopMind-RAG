@@ -1,0 +1,6 @@
+{
+  "dataset_name": "shipping_data",
+  "kaggle_slug": "prachi13/customer-analytics",
+  "source": "kaggle",
+  "output_dir": "C:\\DUT\\AI\\ShopMind RAG\\data\\external\\shipping_data"
+}

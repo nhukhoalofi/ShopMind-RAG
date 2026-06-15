@@ -1,0 +1,44 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "ecommerce-faq-llama2-qa",
+  "dataset_size": 118516,
+  "description": "",
+  "download_size": 33845,
+  "features": {
+    "instruction": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "context": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "category": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 152361,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 118516,
+      "num_examples": 78,
+      "dataset_name": "ecommerce-faq-llama2-qa"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

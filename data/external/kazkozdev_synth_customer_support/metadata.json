@@ -1,0 +1,7 @@
+{
+  "dataset_name": "kazkozdev_synth_customer_support",
+  "hf_id": "KazKozDev/synth-customer-support-expanded-R",
+  "config_name": null,
+  "source": "huggingface",
+  "output_dir": "C:\\DUT\\AI\\ShopMind RAG\\data\\external\\kazkozdev_synth_customer_support"
+}

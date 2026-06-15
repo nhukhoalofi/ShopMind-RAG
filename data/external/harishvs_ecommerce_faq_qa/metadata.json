@@ -1,0 +1,7 @@
+{
+  "dataset_name": "harishvs_ecommerce_faq_qa",
+  "hf_id": "harishvs/ecommerce-faq-llama2-QA",
+  "config_name": null,
+  "source": "huggingface",
+  "output_dir": "C:\\DUT\\AI\\ShopMind RAG\\data\\external\\harishvs_ecommerce_faq_qa"
+}

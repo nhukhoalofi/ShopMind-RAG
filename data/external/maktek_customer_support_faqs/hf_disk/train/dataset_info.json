@@ -1,0 +1,42 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "customer_support_faqs_dataset",
+  "dataset_size": 41885,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/MakTek/Customer_support_faqs_dataset@858a539411eaeb97cc2c78e3262d067abe8fa240/train_expanded.json": {
+      "num_bytes": 46485,
+      "checksum": null
+    }
+  },
+  "download_size": 46485,
+  "features": {
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 88370,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 41885,
+      "num_examples": 200,
+      "dataset_name": "customer_support_faqs_dataset"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

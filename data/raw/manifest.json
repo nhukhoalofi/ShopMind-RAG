@@ -1,0 +1,20 @@
+{
+  "random_seed": 42,
+  "files": {
+    "data/raw/faq.csv": 90,
+    "data/raw/products.csv": 1000,
+    "data/raw/orders_sample.csv": 5000,
+    "data/raw/returns_sample.csv": 2000,
+    "data/raw/shipping_sample.csv": 2000
+  },
+  "data/evaluation/eval_questions.jsonl": 1886,
+  "data/evaluation/hard_cases.jsonl": 1363,
+  "policies": [
+    "account_policy.md",
+    "payment_policy.md",
+    "refund_policy.md",
+    "return_policy.md",
+    "shipping_policy.md",
+    "warranty_policy.md"
+  ]
+}

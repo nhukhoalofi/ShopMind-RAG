@@ -1,0 +1,7 @@
+{
+  "dataset_name": "andyrasika_ecommerce_faq",
+  "hf_id": "Andyrasika/Ecommerce_FAQ",
+  "config_name": null,
+  "source": "huggingface",
+  "output_dir": "C:\\DUT\\AI\\ShopMind RAG\\data\\external\\andyrasika_ecommerce_faq"
+}
